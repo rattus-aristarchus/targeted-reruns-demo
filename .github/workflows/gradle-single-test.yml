@@ -1,0 +1,59 @@
+name: gh-integration-single-test
+
+on:
+  workflow_dispatch:
+    inputs:
+      TEST_NAME:
+        description: "Test to run (e.g. io.demo.AnalyticsTest or io.demo.AnalyticsTest.someTest)"
+        required: true
+      TEST_ENDPOINT:
+        description: "Endpoint for tests"
+        required: true
+        default: https://dev.github.com
+      TEST_BROWSER:
+        description: "Browser for tests"
+        required: true
+        default: chrome
+
+permissions:
+  contents: write
+
+jobs:
+  single-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up JDK 1.8
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.8
+      - name: Build with Gradle
+        run: |
+          ./gradlew clean test --tests "${{ github.event.inputs.TEST_NAME }}"
+        env:
+          TEST_ENDPOINT: ${{ github.event.inputs.TEST_ENDPOINT }}
+          TEST_BROWSER: ${{ github.event.inputs.TEST_BROWSER }}
+      - name: Get GITHUB_ environments just to check
+        run: |
+          printenv | grep GITHUB_
+      - name: Get Allure history
+        uses: actions/checkout@v4
+        if: always()
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+      - name: Generate Allure report
+        uses: simple-elf/allure-report-action@master
+        if: always()
+        with:
+          allure_results: build/allure-results
+          allure_history: allure-history
+          keep_reports: 20
+      - name: Publish Allure report to GitHub Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-history
