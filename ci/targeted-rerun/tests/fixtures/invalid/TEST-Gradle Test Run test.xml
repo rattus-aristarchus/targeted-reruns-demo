@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Gradle Test Run :test" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-01-01T00:00:00Z" hostname="ci" time="1.0">
+  <testcase name="failed to execute tests" classname="Gradle Test Run :test" time="1.0">
+    <failure message="crashed" type="org.gradle.process.ProcessExecutionException">crashed</failure>
+  </testcase>
+</testsuite>

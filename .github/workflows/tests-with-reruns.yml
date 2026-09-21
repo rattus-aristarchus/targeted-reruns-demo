@@ -1,0 +1,103 @@
+name: tests-with-reruns
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      TEST_ENDPOINT:
+        description: "Endpoint for tests"
+        required: true
+        default: https://dev.github.com
+      TEST_BROWSER:
+        description: "Browser for tests"
+        required: true
+        default: chrome
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  all-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Set up JDK 25
+        uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: "25"
+
+      - name: Download test state from earlier attempts
+        if: github.run_attempt != '1'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          pattern: test-state-${{ github.job }}-attempt-*
+          path: rerun-state/previous
+
+      - name: Fall back to gh run download if artifacts weren't visible
+        if: github.run_attempt != '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(find rerun-state/previous -name state.json 2>/dev/null)" ]; then
+            echo "download-artifact found no previous-attempt state; falling back to gh run download"
+            gh run download "$GITHUB_RUN_ID" --pattern "test-state-${{ github.job }}-attempt-*" --dir rerun-state/previous || true
+          fi
+
+      - name: Run tests
+        id: tests
+        timeout-minutes: 40
+        env:
+          TARGETED_RERUN: ${{ vars.TARGETED_RERUN || 'true' }}
+          TEST_ENDPOINT: ${{ github.event.inputs.TEST_ENDPOINT }}
+          TEST_BROWSER: ${{ github.event.inputs.TEST_BROWSER }}
+          # Temporary, for verifying this PR - see docs/ci/targeted-reruns.md.
+          # Remove this line and RerunProbeTest.java before marking the PR ready.
+          RERUN_PROBE: "1"
+        run: >
+          python3 ci/targeted-rerun/run_tests.py
+          --previous rerun-state/previous
+          --out rerun-state/current
+          --tasks clean test
+          -- ./gradlew
+
+      - name: Upload test state
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-state-${{ github.job }}-attempt-${{ github.run_attempt }}
+          path: |
+            rerun-state/current/
+            **/build/test-results/**/*.xml
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Get GITHUB_ environments just to check
+        run: |
+          printenv | grep GITHUB_
+
+      - name: Get Allure history
+        uses: actions/checkout@v7
+        if: always() && steps.tests.outputs.mode != 'targeted'
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Generate Allure report
+        uses: simple-elf/allure-report-action@v1.15
+        if: always() && steps.tests.outputs.mode != 'targeted'
+        with:
+          allure_results: build/allure-results
+          allure_history: allure-history
+          keep_reports: 20
+
+      - name: Publish Allure report to GitHub Pages
+        if: always() && steps.tests.outputs.mode != 'targeted'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-history

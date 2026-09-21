@@ -43,3 +43,7 @@ build
 # Allure
 allure-report/
 test-history/
+
+# Targeted test rerun state (local scratch space, never committed)
+rerun-state/
+ci/targeted-rerun/**/__pycache__/

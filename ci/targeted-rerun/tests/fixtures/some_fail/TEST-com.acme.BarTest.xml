@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.acme.BarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-01T00:00:00Z" hostname="ci" time="0.01">
+  <testcase name="works()" classname="com.acme.BarTest" time="0.01"/>
+</testsuite>

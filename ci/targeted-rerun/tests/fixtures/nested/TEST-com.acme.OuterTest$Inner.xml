@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Inner" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-01-01T00:00:00Z" hostname="ci" time="0.01">
+  <testcase name="inner()" classname="com.acme.OuterTest$Inner" time="0.01">
+    <failure message="nested boom" type="org.opentest4j.AssertionFailedError">nested boom</failure>
+  </testcase>
+</testsuite>
