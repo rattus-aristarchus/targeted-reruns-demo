@@ -1,0 +1,9 @@
+{
+  "variantType": "Material",
+  "options": ["Cotton", "Polyester", "Wool", "Silk", "Linen"],
+  "defaultOption": "Cotton",
+  "priceImpact": "±$10-50",
+  "availability": true,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

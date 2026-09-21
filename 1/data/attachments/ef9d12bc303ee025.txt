@@ -1,0 +1,4 @@
+User account deleted successfully at 2026-09-21 03:51:37
+Status: Deleted
+Data Retention: 30 days
+Recovery: Possible within retention period

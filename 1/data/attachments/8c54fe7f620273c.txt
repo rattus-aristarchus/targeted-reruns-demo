@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+29,Router,Networking,249.99,4.2,134,2026-09-21 03:49:57

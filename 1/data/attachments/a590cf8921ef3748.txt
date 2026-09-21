@@ -1,0 +1,2 @@
+availability,product_count,restock_date,shipping_time,price_change,timestamp
+pre_order,12,2024-03-01,3-5 business days,Pre-order discount: 10%,2026-09-21 03:49:57

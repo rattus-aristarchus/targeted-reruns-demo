@@ -1,0 +1,2 @@
+level,priority,color,status,timestamp
+FATAL,4,#9C27B0,active,2026-09-21 03:46:31

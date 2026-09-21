@@ -1,0 +1,2 @@
+shipping_method,delivery_time,cost,tracking,insurance,timestamp
+Express,1-2 business days,19.99,true,true,2026-09-21 03:49:52

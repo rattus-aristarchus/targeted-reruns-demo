@@ -1,0 +1,11 @@
+{
+  "testType": "Password Strength Test",
+  "vulnerability": "Weak Password",
+  "password": "abc123",
+  "strengthLevel": "Fair",
+  "protectionMethod": "Password Policy Enforcement",
+  "severity": "Medium",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 03:51:26",
+  "testing": true
+}

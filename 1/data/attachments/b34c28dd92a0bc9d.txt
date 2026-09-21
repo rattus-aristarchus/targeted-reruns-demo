@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Channel Report</title></head>
+<body><h1>Notification Channel Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:17</p>
+<h2>Channel Details</h2>
+<ul>
+<li>Channel: whatsapp</li>
+<li>Type: Messaging</li>
+<li>Endpoint: https://graph.facebook.com/v17.0/messages</li>
+<li>Priority: Medium</li>
+</ul>
+</body></html>

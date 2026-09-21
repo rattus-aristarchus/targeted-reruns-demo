@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "PayPal",
+  "provider": "PayPal",
+  "timestamp": "2026-09-21 03:46:06",
+  "status": "testing"
+}

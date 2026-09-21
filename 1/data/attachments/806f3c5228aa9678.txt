@@ -1,0 +1,7 @@
+{
+  "field": "Stack Trace",
+  "type": "text",
+  "required": false,
+  "timestamp": "2026-09-21 03:46:31",
+  "status": "active"
+}

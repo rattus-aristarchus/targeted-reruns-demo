@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Log Processing Report</title></head>
+<body><h1>Log Processing Mode Report</h1>
+<p>Generated: 2026-09-21 03:46:31</p>
+<h2>Mode Details</h2>
+<ul>
+<li>Mode: Batch</li>
+<li>Latency: 5-15 minutes</li>
+<li>Throughput: 10,000+ logs/batch</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html><head><title>Logging System Dashboard</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.appender{display:flex;justify-content:space-between;align-items:center;padding:15px;margin:10px 0;border-radius:4px;}
+.console{background:#e8f5e8;border-left:4px solid #4caf50;}
+.file{background:#e3f2fd;border-left:4px solid #2196f3;}
+.rolling{background:#fff3e0;border-left:4px solid #ff9800;}
+.status{font-weight:bold;color:#2e7d32;}
+.metrics{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin:20px 0;}
+.metric{background:#f5f5f5;padding:15px;border-radius:4px;text-align:center;}
+.logger{background:#f3e5f5;padding:8px;margin:5px;border-radius:4px;display:inline-block;}
+</style></head>
+<body><div class="container">
+<h1>📝 Logging System Dashboard</h1>
+<div class="appender console">
+<div><strong>Console Appender</strong><br/>Level: INFO</div>
+<div class="status">✅ Active</div>
+</div>
+<div class="appender file">
+<div><strong>File Appender</strong><br/>/var/log/app.log (DEBUG)</div>
+<div class="status">✅ Active</div>
+</div>
+<div class="appender rolling">
+<div><strong>Rolling File Appender</strong><br/>/var/log/rolling.log (WARN)</div>
+<div class="status">✅ Active</div>
+</div>
+<h2>Active Loggers</h2>
+<div class="logger">com.example (DEBUG)</div>
+<div class="logger">org.springframework (INFO)</div>
+<div class="logger">root (WARN)</div>
+<div class="metrics">
+<div class="metric"><h3>Logs Generated</h3><p>25,847</p></div>
+<div class="metric"><h3>Error Rate</h3><p>0.3%</p></div>
+<div class="metric"><h3>Storage Used</h3><p>2.3 GB</p></div>
+</div>
+<p><em>Last updated: 2026-09-21 03:46:31</em></p>
+</div></body></html>

@@ -1,0 +1,2 @@
+delivery_date,expected_method,shipping_cost,cutoff_time,availability,timestamp
+Today,Same Day,49.99,2:00 PM,true,2026-09-21 03:49:29

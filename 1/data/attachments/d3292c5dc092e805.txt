@@ -1,0 +1,8 @@
+{
+  "sensor": "GPS",
+  "type": "Location",
+  "accuracy": "High",
+  "permission": "Location",
+  "timestamp": "2026-09-21 03:46:36",
+  "status": "testing"
+}

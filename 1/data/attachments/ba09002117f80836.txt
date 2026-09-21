@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Priority Filter Report</title></head>
+<body><h1>Priority Filter Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:17</p>
+<h2>Priority Details</h2>
+<ul>
+<li>Priority: high</li>
+<li>Level: 3</li>
+<li>Color: #FF5722</li>
+<li>Expected Count: 15</li>
+</ul>
+</body></html>

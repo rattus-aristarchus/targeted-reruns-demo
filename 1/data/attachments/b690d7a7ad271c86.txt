@@ -1,0 +1,2 @@
+availability,product_count,restock_date,shipping_time,price_change,timestamp
+in_stock,234,N/A,1-2 business days,No change,2026-09-21 03:49:57

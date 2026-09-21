@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+Samsung,Electronics,38,$49 - $1,999,4.3,2026-09-21 03:49:57

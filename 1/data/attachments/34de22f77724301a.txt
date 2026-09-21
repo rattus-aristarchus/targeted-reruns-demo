@@ -1,0 +1,2 @@
+channel,type,endpoint,priority,status,timestamp
+whatsapp,Messaging,https://graph.facebook.com/v17.0/messages,Medium,testing,2026-09-21 03:49:17

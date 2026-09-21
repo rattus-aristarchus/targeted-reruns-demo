@@ -1,0 +1,10 @@
+{
+  "templateName": "Security Alert",
+  "category": "Security",
+  "priority": "Critical",
+  "channels": [
+    "email,sms,push"
+  ],
+  "timestamp": "2026-09-21 03:49:17",
+  "status": "testing"
+}

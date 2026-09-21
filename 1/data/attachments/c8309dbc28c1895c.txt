@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><title>Order Total Report</title></head>
+<body><h1>Order Total Validation Report</h1>
+<p>Generated: 2026-09-21 03:49:19</p>
+<h2>Total Details</h2>
+<ul>
+<li>Order: Order D</li>
+<li>Expected Total: $499.99</li>
+<li>Currency: USD</li>
+<li>Tax Rate: 9.5%</li>
+<li>Shipping: $0.0</li>
+</ul>
+</body></html>

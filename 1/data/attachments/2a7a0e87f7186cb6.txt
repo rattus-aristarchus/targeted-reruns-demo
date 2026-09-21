@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html><head><title>Order Status Report</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.status{background:#e3f2fd;padding:20px;border-radius:4px;margin:20px 0;}
+.status-badge{display:inline-block;padding:8px 16px;border-radius:20px;color:white;font-weight:bold;font-size:14px;}
+.pending{background:#ff9800;}
+.processing{background:#2196f3;}
+.shipped{background:#9c27b0;}
+.delivered{background:#4caf50;}
+.cancelled{background:#f44336;}
+.feature{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #ddd;}
+.feature:last-child{border-bottom:none;}
+</style></head>
+<body><div class="container">
+<h1>📦 Order Status Report</h1>
+<p>Generated: 2026-09-21 03:49:49</p>
+<div class="status">
+<h2>Order Status: <span class="status-badge cancelled">Cancelled</span></h2>
+<div class="feature">
+<span><strong>Order ID:</strong></span>
+<span>ORD-12345</span>
+</div>
+<div class="feature">
+<span><strong>Estimated Delivery:</strong></span>
+<span>N/A</span>
+</div>
+<div class="feature">
+<span><strong>Tracking Number:</strong></span>
+<span>N/A</span>
+</div>
+<div class="feature">
+<span><strong>Last Update:</strong></span>
+<span>2024-01-20 11:00:00</span>
+</div>
+</div>
+</div></body></html>

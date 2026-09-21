@@ -1,0 +1,10 @@
+{
+  "notificationType": "WhatsApp",
+  "orderId": "ORD-12345",
+  "deliveryTime": "1-3 minutes",
+  "priority": "Medium",
+  "template": "order_whatsapp_template.txt",
+  "enabled": true,
+  "timestamp": "2026-09-21 03:49:27",
+  "testing": true
+}

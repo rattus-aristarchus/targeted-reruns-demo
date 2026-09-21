@@ -1,0 +1,2 @@
+delivery_method,latency,frequency,reliability,timestamp
+Real-time,< 1s,Continuous,95%,2026-09-21 03:50:39

@@ -1,0 +1,10 @@
+{
+  "productId": 23,
+  "name": "Case",
+  "category": "Mobile",
+  "price": 79.99,
+  "rating": 4.3,
+  "reviews": 178,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

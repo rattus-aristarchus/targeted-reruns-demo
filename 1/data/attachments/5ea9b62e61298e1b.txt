@@ -1,0 +1,2 @@
+notification_type,order_id,delivery_time,priority,template,enabled,timestamp
+Telegram,ORD-12345,1-2 minutes,Low,order_telegram_template.md,false,2026-09-21 03:49:28

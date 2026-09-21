@@ -1,0 +1,10 @@
+{
+  "category": "Beauty",
+  "productId": "PROD-BEA-7900",
+  "name": "Face Cream",
+  "price": 34.99,
+  "description": "High-quality beauty product with excellent features and durability.",
+  "inventory": 80,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

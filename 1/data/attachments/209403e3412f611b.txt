@@ -1,0 +1,2 @@
+product_id,action,product_name,reason,backup_required,timestamp
+41,delete,Adapter,Low Sales,false,2026-09-21 03:49:57

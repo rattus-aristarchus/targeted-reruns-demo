@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobile-responsive-config>
+  <breakpoints>
+    <breakpoint name="mobile" min="320" max="767">
+      <status>active</status>
+      <features>
+        <feature>flexible-grid</feature>
+        <feature>flexible-images</feature>
+        <feature>media-queries</feature>
+        <feature>touch-friendly</feature>
+      </features>
+    </breakpoint>
+    <breakpoint name="tablet" min="768" max="1023">
+      <status>active</status>
+    </breakpoint>
+    <breakpoint name="desktop" min="1024" max="1920">
+      <status>active</status>
+    </breakpoint>
+  </breakpoints>
+</mobile-responsive-config>

@@ -1,0 +1,9 @@
+{
+  "testId": "9251",
+  "testName": "Some test",
+  "testType": "Temporary Redirect Test",
+  "serviceId": "temporaryRedirectWith www",
+  "sleepDuration": 60,
+  "timestamp": "2026-09-21 03:48:17",
+  "testing": true
+}

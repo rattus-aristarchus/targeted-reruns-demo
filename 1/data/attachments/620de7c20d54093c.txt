@@ -1,0 +1,9 @@
+{
+  "deliveryDate": "Next Week",
+  "expectedMethod": "Standard",
+  "shippingCost": 9.99,
+  "cutoffTime": "11:59 PM",
+  "availability": true,
+  "timestamp": "2026-09-21 03:49:31",
+  "testing": true
+}

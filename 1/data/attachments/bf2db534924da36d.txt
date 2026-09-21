@@ -1,0 +1,9 @@
+{
+  "category": "Security",
+  "filename": "security.log",
+  "path": "/var/log/security.log",
+  "rotation": "daily",
+  "retention": "30 days",
+  "timestamp": "2026-09-21 03:46:31",
+  "status": "active"
+}

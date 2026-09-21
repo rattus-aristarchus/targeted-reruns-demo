@@ -1,0 +1,2 @@
+template_name,category,priority,channels,status,timestamp
+Promotion,Marketing,Low,email,push,testing,2026-09-21 03:49:17

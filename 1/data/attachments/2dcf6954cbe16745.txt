@@ -1,0 +1,9 @@
+{
+  "region": "West",
+  "reportName": "Region: West",
+  "population": 20,
+  "salesVolume": "$2.0M",
+  "marketShare": "22%",
+  "timestamp": "2026-09-21 03:50:26",
+  "testing": true
+}

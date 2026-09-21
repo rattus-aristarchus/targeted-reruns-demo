@@ -1,0 +1,8 @@
+{
+  "notification": "In-app",
+  "type": "Internal",
+  "priority": "Low",
+  "delivery": "Immediate",
+  "timestamp": "2026-09-21 03:46:55",
+  "status": "testing"
+}

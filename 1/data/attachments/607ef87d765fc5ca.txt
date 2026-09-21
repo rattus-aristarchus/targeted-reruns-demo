@@ -1,0 +1,9 @@
+{
+  "availability": "out_of_stock",
+  "productCount": 45,
+  "restockDate": "2024-02-15",
+  "shippingTime": "N/A",
+  "priceChange": N/A,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

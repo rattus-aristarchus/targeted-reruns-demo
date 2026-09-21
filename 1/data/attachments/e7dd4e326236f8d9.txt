@@ -1,0 +1,2 @@
+customer_email,customer_type,expected_orders,last_order_date,timestamp
+bob.johnson@example.com,Premium,15,2024-01-15,2026-09-21 03:49:19

@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "Adyen",
+  "provider": "Adyen",
+  "timestamp": "2026-09-21 03:46:08",
+  "status": "testing"
+}

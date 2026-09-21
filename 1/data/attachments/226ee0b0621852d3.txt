@@ -1,0 +1,8 @@
+{
+  "dateRange": "this_year",
+  "startDate": "2024-01-01",
+  "endDate": "2024-12-31",
+  "expectedOrders": 1500,
+  "timestamp": "2026-09-21 03:49:19",
+  "testing": true
+}

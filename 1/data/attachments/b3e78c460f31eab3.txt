@@ -1,0 +1,2 @@
+delivery_method,type,delay,reliability,timestamp
+immediate,Real-time,0-5 seconds,High,2026-09-21 03:49:17

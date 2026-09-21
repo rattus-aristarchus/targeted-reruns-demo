@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html><head><title>Workflow Diagram</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.workflow{display:flex;align-items:center;justify-content:space-between;margin:20px 0;}
+.step{background:#e3f2fd;padding:15px;border-radius:8px;text-align:center;min-width:120px;}
+.arrow{font-size:24px;color:#1976d2;margin:0 10px;}
+.status{color:#4caf50;font-weight:bold;}</style></head>
+<body><div class="container">
+<h1>🔄 Order Processing Workflow</h1>
+<div class="workflow">
+<div class="step"><strong>Validate Order</strong><br/>Status: ✅</div>
+<div class="arrow">→</div>
+<div class="step"><strong>Process Payment</strong><br/>Status: ✅</div>
+<div class="arrow">→</div>
+<div class="step"><strong>Check Inventory</strong><br/>Status: ✅</div>
+<div class="arrow">→</div>
+<div class="step"><strong>Prepare Shipping</strong><br/>Status: ✅</div>
+</div>
+<p><em>Generated at: 2026-09-21 03:51:38</em></p>
+</div></body></html>

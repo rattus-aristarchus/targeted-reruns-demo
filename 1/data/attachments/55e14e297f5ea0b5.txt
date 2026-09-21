@@ -1,0 +1,2 @@
+mode,latency,throughput,status,timestamp
+Batch,5-15 minutes,10,000+ logs/batch,active,2026-09-21 03:46:31

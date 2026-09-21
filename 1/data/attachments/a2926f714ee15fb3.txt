@@ -1,0 +1,10 @@
+{
+  "viewType": "Front View",
+  "imageCount": 3,
+  "resolution": "1920x1080",
+  "fileSize": "2.3 MB",
+  "format": "JPEG",
+  "quality": "High",
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

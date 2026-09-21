@@ -1,0 +1,8 @@
+{
+  "sensor": "Accelerometer",
+  "type": "Motion",
+  "accuracy": "Medium",
+  "permission": "None",
+  "timestamp": "2026-09-21 03:46:39",
+  "status": "testing"
+}

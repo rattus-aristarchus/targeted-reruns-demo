@@ -1,0 +1,2 @@
+item_count,estimated_total,shipping_weight,priority,timestamp
+5,499.95,7.5,Medium,2026-09-21 03:49:39

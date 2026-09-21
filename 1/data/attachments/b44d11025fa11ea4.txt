@@ -1,0 +1,10 @@
+{
+  "reportType": "Sales Report",
+  "metric": "Revenue",
+  "reportName": "Report Type: Sales - Revenue",
+  "category": "Business",
+  "complexity": "High",
+  "format": "PDF",
+  "timestamp": "2026-09-21 03:50:44",
+  "testing": true
+}

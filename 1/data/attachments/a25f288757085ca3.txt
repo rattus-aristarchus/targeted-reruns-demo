@@ -1,0 +1,11 @@
+{
+  "action": "export_order_history",
+  "format": "PDF",
+  "dateRange": "Last 12 months",
+  "orderCount": 47,
+  "totalAmount": 12547.89,
+  "fileName": "order_history_2024.pdf",
+  "fileSize": "2.3 MB",
+  "timestamp": "2026-09-21 03:49:34",
+  "testing": true
+}

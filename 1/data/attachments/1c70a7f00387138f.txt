@@ -1,0 +1,9 @@
+{
+  "exportFormat": "CSV",
+  "reportName": "Export Format: CSV",
+  "mimeType": "text/csv",
+  "fileSize": "850 KB",
+  "compatibility": "Universal",
+  "timestamp": "2026-09-21 03:50:55",
+  "testing": true
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html><head><title>Language Dashboard</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.report{background:#e0f2f1;padding:20px;border-radius:4px;margin:20px 0;border-left:4px solid #009688;}
+.feature{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #ddd;}
+.feature:last-child{border-bottom:none;}
+.report-name{font-size:20px;font-weight:bold;color:#00695c;}
+.language{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;background:#009688;}
+.locale{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;background:#4caf50;}
+.charset{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;background:#2196f3;}
+.stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin:20px 0;}
+.stat{background:#f5f5f5;padding:15px;border-radius:4px;text-align:center;}
+.direction{font-size:16px;font-weight:bold;color:#009688;}
+</style></head>
+<body><div class="container">
+<h1>🌐 Language Dashboard</h1>
+<p>Generated: 2026-09-21 03:50:32</p>
+<div class="report">
+<h2 class="report-name">Language: Chinese <span class="language">Chinese</span></h2>
+<div class="feature">
+<span><strong>Language:</strong></span>
+<span class="language">Chinese</span>
+</div>
+<div class="feature">
+<span><strong>Locale:</strong></span>
+<span class="locale">zh-CN</span>
+</div>
+<div class="feature">
+<span><strong>Character Set:</strong></span>
+<span class="charset">UTF-8</span>
+</div>
+<div class="feature">
+<span><strong>Text Direction:</strong></span>
+<span class="direction">LTR</span>
+</div>
+</div>
+<div class="stats">
+<div class="stat">
+<h3>Language</h3>
+<p>Chinese</p>
+</div>
+<div class="stat">
+<h3>Locale</h3>
+<p>zh-CN</p>
+</div>
+<div class="stat">
+<h3>Direction</h3>
+<p>LTR</p>
+</div>
+</div>
+</div></body></html>

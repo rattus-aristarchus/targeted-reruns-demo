@@ -1,0 +1,2 @@
+visualization_type,interactivity,data_density,rendering_time,timestamp
+Summary,Low,Low,0.9s,2026-09-21 03:51:02

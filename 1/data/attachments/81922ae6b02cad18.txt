@@ -1,0 +1,2 @@
+region,population,sales_volume,market_share,timestamp
+North,25,$2.5M,28%,2026-09-21 03:50:23

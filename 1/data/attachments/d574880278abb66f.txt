@@ -1,0 +1,2 @@
+sensor,type,accuracy,permission,status,timestamp
+GPS,Location,High,Location,testing,2026-09-21 03:46:36

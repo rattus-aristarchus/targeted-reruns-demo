@@ -1,0 +1,4 @@
+action,original_order_id,new_order_id,product_id,product_name,price,quantity,available,timestamp
+reorder_from_history,ORD-12345,ORD-12346,PROD-001,Laptop,999.99,1,true,2026-09-21 03:49:56
+reorder_from_history,ORD-12345,ORD-12346,PROD-002,Mouse,29.99,2,true,2026-09-21 03:49:56
+reorder_from_history,ORD-12345,ORD-12346,PROD-003,Keyboard,79.99,1,false,2026-09-21 03:49:56

@@ -1,0 +1,16 @@
+{
+  "systemId": "event-system",
+  "version": "2.3.0",
+  "brokers": [
+    {"name": "kafka", "host": "kafka-cluster:9092", "status": "active"},
+    {"name": "rabbitmq", "host": "rabbitmq:5672", "status": "standby"}
+  ],
+  "topics": [
+    "user-events",
+    "order-events",
+    "payment-events",
+    "notification-events"
+  ],
+  "timestamp": "2026-09-21 03:45:39",
+  "status": "initialized"
+}

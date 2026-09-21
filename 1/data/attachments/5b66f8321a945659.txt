@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order Items Report</title></head>
+<body><h1>Order Items Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:19</p>
+<h2>Items Details</h2>
+<ul>
+<li>Order Type: Multiple Items</li>
+<li>Item Count: 5</li>
+<li>Category: Mixed</li>
+<li>Priority: High</li>
+</ul>
+</body></html>

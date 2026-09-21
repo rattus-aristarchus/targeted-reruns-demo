@@ -1,0 +1,9 @@
+{
+  "visualizationType": "Summary",
+  "reportName": "Visualization: Summary",
+  "interactivity": "Low",
+  "dataDensity": "Low",
+  "renderingTime": "0.9s",
+  "timestamp": "2026-09-21 03:51:02",
+  "testing": true
+}

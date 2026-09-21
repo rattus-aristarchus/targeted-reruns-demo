@@ -1,0 +1,9 @@
+{
+  "userRole": "Manager",
+  "reportName": "User Role: Manager",
+  "permissions": "Management Access",
+  "accessLevel": "Level 4",
+  "reportScope": "Department Reports",
+  "timestamp": "2026-09-21 03:50:35",
+  "testing": true
+}

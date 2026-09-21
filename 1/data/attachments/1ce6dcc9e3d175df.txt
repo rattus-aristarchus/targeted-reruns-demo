@@ -1,0 +1,2 @@
+action,issue_title,status,timestamp
+close,Some issue, title here,completed,2026-09-21 03:46:30

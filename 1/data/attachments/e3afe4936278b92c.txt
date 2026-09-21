@@ -1,0 +1,10 @@
+{
+  "productId": 26,
+  "name": "Keyboard",
+  "category": "Accessories",
+  "price": 699.99,
+  "rating": 4.9,
+  "reviews": 267,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

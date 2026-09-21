@@ -1,0 +1,4 @@
+appender,level,logs_count,error_rate,file_size,timestamp
+console,INFO,15420,0.1%,0MB,2026-09-21 03:46:31
+file,DEBUG,8927,0.2%,1.8GB,2026-09-21 03:46:31
+rolling,WARN,1500,0.5%,0.5GB,2026-09-21 03:46:31

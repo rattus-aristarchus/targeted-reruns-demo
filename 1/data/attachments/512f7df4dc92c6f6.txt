@@ -1,0 +1,2 @@
+report_type,report_name,period,format,visualization,priority,timestamp
+Sales Report,Sales Report Generation,Monthly,PDF,Chart,High,2026-09-21 03:50:33

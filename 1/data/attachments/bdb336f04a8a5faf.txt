@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Electronics,PROD-ELE-7885,Smart Phone,599.99,High-quality electronics product with excellent features and durability.,25,2026-09-21 03:49:57

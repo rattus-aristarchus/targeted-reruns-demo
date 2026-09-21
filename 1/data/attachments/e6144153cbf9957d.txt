@@ -1,0 +1,2 @@
+level,priority,color,status,timestamp
+DEBUG,0,#9E9E9E,active,2026-09-21 03:46:31

@@ -1,0 +1,9 @@
+{
+  "brand": "Canon",
+  "category": "Photography",
+  "productCount": 23,
+  "priceRange": "$149 - $4,999",
+  "averageRating": 4.7,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

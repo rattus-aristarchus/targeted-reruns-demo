@@ -1,0 +1,2 @@
+field,type,required,status,timestamp
+Stack Trace,text,false,active,2026-09-21 03:46:31

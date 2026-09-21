@@ -1,0 +1,2 @@
+orientation,dimensions,width,height,is_landscape,status,timestamp
+Ultra-wide,1024x768,1024,768,true,testing,2026-09-21 03:46:51

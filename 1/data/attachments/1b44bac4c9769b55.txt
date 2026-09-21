@@ -1,0 +1,2 @@
+variant_type,options,default_option,price_impact,availability,timestamp
+Material,["Cotton", "Polyester", "Wool", "Silk", "Linen"],Cotton,±$10-50,true,2026-09-21 03:49:57

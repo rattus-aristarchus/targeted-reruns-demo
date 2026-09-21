@@ -1,0 +1,2 @@
+category,filename,path,rotation,retention,status,timestamp
+Security,security.log,/var/log/security.log,daily,30 days,active,2026-09-21 03:46:31

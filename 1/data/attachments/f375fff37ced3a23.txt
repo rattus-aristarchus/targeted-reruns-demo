@@ -1,0 +1,9 @@
+{
+  "variantType": "Pattern",
+  "options": ["Solid", "Striped", "Polka Dot", "Floral", "Geometric"],
+  "defaultOption": "Solid",
+  "priceImpact": "No impact",
+  "availability": false,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

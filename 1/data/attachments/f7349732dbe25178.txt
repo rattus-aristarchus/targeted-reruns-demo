@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Workflow Performance Report</title></head>
+<body><h1>Workflow Performance Report</h1>
+<p>Generated: 2026-09-21 03:51:37</p>
+<h2>Execution Statistics</h2>
+<ul>
+<li>Total Workflows: 3</li>
+<li>Success Rate: 100%</li>
+<li>Average Execution Time: 950ms</li>
+</ul>
+</body></html>

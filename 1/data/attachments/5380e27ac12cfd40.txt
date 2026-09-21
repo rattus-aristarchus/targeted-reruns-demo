@@ -1,0 +1,7 @@
+{
+  "mode": "On-demand",
+  "latency": "immediate",
+  "throughput": "100 logs/sec",
+  "timestamp": "2026-09-21 03:46:31",
+  "status": "active"
+}

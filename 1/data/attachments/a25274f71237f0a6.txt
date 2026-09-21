@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "Braintree",
+  "provider": "Braintree",
+  "timestamp": "2026-09-21 03:46:09",
+  "status": "testing"
+}

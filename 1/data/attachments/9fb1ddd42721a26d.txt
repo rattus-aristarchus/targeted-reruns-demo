@@ -1,0 +1,2 @@
+view_type,image_count,resolution,file_size,format,quality,timestamp
+Package View,2,1280x720,1.2 MB,JPEG,Medium,2026-09-21 03:49:57

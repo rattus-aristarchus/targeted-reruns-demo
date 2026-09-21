@@ -1,0 +1,2 @@
+user_role,permissions,access_level,report_scope,timestamp
+Guest,Limited Access,Level 1,Basic Reports,2026-09-21 03:50:38

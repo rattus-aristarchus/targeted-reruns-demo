@@ -1,0 +1,9 @@
+{
+  "productId": 46,
+  "action": "delete",
+  "productName": "Gaming Laptop",
+  "reason": "Quality Issues",
+  "backup": true,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

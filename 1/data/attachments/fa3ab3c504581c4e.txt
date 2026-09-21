@@ -1,0 +1,8 @@
+{
+  "addressType": "Pickup Point",
+  "deliveryMethod": "Pickup Service",
+  "deliveryTime": "1-2 business days",
+  "verification": "High",
+  "timestamp": "2026-09-21 03:49:19",
+  "testing": true
+}

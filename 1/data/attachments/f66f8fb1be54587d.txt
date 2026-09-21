@@ -1,0 +1,7 @@
+{
+  "validationRules": [
+    {"field": "email", "type": "email", "required": true},
+    {"field": "password", "type": "string", "minLength": 8},
+    {"field": "age", "type": "integer", "min": 18, "max": 120}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "deliveryMethod": "Scheduled",
+  "reportName": "Delivery Method: Scheduled",
+  "latency": "5-10s",
+  "frequency": "Daily",
+  "reliability": "99%",
+  "timestamp": "2026-09-21 03:50:40",
+  "testing": true
+}

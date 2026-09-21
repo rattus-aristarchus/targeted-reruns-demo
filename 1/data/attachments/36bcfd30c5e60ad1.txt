@@ -1,0 +1,10 @@
+{
+  "reportType": "Time-based Report",
+  "period": "Yearly",
+  "reportName": "Time Report: Yearly",
+  "frequency": "365 days",
+  "dataPoints": 12,
+  "format": "PDF",
+  "timestamp": "2026-09-21 03:50:52",
+  "testing": true
+}

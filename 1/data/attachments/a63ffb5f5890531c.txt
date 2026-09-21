@@ -1,0 +1,2 @@
+region,population,sales_volume,market_share,timestamp
+West,20,$2.0M,22%,2026-09-21 03:50:26

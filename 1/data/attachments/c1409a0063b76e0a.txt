@@ -1,0 +1,10 @@
+{
+  "productId": 30,
+  "name": "Smart Phone",
+  "category": "Electronics",
+  "price": 99.99,
+  "rating": 4.5,
+  "reviews": 125,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

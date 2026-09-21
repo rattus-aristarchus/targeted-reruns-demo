@@ -1,0 +1,8 @@
+{
+  "channel": "discord",
+  "type": "Team",
+  "endpoint": "https://discord.com/api/webhooks/...",
+  "priority": "Low",
+  "timestamp": "2026-09-21 03:49:17",
+  "status": "testing"
+}

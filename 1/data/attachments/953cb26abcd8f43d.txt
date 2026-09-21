@@ -1,0 +1,9 @@
+ISSUE MANAGEMENT LOG
+====================
+
+Issue ID: AE-T4
+Title: Some issue, title here
+Repository: allure-framework, not-allure-framework/allure2
+Timestamp: 2026-09-21 03:46:29
+Status: Open
+Action: Label added successfully

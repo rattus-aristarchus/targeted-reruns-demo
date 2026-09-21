@@ -1,0 +1,2 @@
+endpoint,method,title,status,timestamp
+/api/issues/close,PUT,First Note,200,2026-09-21 03:46:29

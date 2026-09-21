@@ -1,0 +1,2 @@
+delivery_method,type,delay,reliability,timestamp
+recurring,Periodic,As per schedule,High,2026-09-21 03:49:17

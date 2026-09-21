@@ -1,0 +1,9 @@
+{
+  "variantType": "Size",
+  "options": ["XS", "S", "M", "L", "XL", "XXL"],
+  "defaultOption": "M",
+  "priceImpact": "No impact",
+  "availability": true,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

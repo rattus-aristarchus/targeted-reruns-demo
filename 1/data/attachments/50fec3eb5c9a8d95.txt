@@ -1,0 +1,2 @@
+shipping_method,delivery_time,cost,tracking,insurance,timestamp
+Overnight,Next business day,29.99,true,true,2026-09-21 03:49:53

@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+HP,Computers,36,$199 - $1,999,3.9,2026-09-21 03:49:57

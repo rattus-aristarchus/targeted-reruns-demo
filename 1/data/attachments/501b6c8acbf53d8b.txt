@@ -1,0 +1,2 @@
+destination,type,enabled,status,timestamp
+Console,output,true,active,2026-09-21 03:46:31

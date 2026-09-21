@@ -1,0 +1,8 @@
+{
+  "sensor": "Camera",
+  "type": "Image",
+  "accuracy": "High",
+  "permission": "Camera",
+  "timestamp": "2026-09-21 03:46:37",
+  "status": "testing"
+}

@@ -1,0 +1,2 @@
+payment_method,provider,processing_time,security,timestamp
+crypto,Crypto Gateway,10-60 minutes,Medium,2026-09-21 03:49:19

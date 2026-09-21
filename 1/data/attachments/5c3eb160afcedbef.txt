@@ -1,0 +1,7 @@
+timestamp,metric,value,unit,trend
+2026-09-21 03:45:36,revenue,12345,usd,+5.2%
+2026-09-21 03:45:36,active_users,1500,count,+12.1%
+2026-09-21 03:45:36,conversion_rate,3.2,percent,-0.3%
+2026-09-21 03:45:36,orders,89,count,+8.7%
+2026-09-21 03:45:36,bounce_rate,45.2,percent,-2.1%
+2026-09-21 03:45:36,avg_session_duration,180,seconds,+15.3%

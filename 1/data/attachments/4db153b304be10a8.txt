@@ -1,0 +1,11 @@
+{
+  "reportType": "Sales Report",
+  "reportName": "Sales Report Generation",
+  "period": "Monthly",
+  "format": "PDF",
+  "metrics": ["Revenue", "Units Sold", "Profit Margin"],
+  "visualization": "Chart",
+  "priority": "High",
+  "timestamp": "2026-09-21 03:50:33",
+  "testing": true
+}

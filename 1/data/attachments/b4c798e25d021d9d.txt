@@ -1,0 +1,14 @@
+FILE UPLOAD SECURITY TESTING LOG
+==================================
+
+Test Type: File Upload Security Test
+Vulnerability: Malicious File Upload
+File Extension: .asp
+File Type: ASP Script
+Protection Method: File Type Validation
+Severity: High
+Status: Rejected
+Filename: malicious.asp
+MIME Type: application/x-asp
+Timestamp: 2026-09-21 03:51:29
+Action: File upload security validation completed

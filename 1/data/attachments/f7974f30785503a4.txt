@@ -1,0 +1,2 @@
+product_name,new_price,previous_price,price_change,change_percentage,timestamp
+Product E,199.99,159.99200000000002,39.99799999999999,24.999999999999993,2026-09-21 03:49:57

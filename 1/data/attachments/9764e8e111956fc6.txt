@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Toys,PROD-TOY-7901,Building Blocks,49.99,High-quality toys product with excellent features and durability.,120,2026-09-21 03:49:57

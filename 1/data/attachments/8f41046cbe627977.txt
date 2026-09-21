@@ -1,0 +1,6 @@
+timestamp,step,status,duration,message
+2026-09-21 03:51:38,validate,success,150ms,Order validation passed
+2026-09-21 03:51:38,payment,success,300ms,Payment processed successfully
+2026-09-21 03:51:38,inventory,success,200ms,Inventory check completed
+2026-09-21 03:51:38,shipping,success,250ms,Shipping prepared
+2026-09-21 03:51:38,workflow,completed,900ms,Workflow execution finished

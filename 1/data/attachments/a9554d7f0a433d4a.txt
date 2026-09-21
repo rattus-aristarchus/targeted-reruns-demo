@@ -1,0 +1,9 @@
+{
+  "brand": "Sony",
+  "category": "Electronics",
+  "productCount": 29,
+  "priceRange": "$79 - $1,499",
+  "averageRating": 4.5,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

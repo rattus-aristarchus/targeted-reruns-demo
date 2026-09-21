@@ -1,0 +1,2 @@
+template_name,category,priority,channels,status,timestamp
+Price Alert,E-commerce,High,email,push,sms,testing,2026-09-21 03:49:17

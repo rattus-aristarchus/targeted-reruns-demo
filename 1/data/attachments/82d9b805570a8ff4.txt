@@ -1,0 +1,2 @@
+device,os,category,screen_size,status,timestamp
+iPhone,iOS,Smartphone,4.7-6.7 inches,testing,2026-09-21 03:47:07

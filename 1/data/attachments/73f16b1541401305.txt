@@ -1,0 +1,10 @@
+{
+  "action": "cancel_order",
+  "orderId": "ORD-12345",
+  "reason": "Customer Request",
+  "refundAmount": 1139.96,
+  "refundMethod": "Original Payment",
+  "processingTime": "1-3 business days",
+  "timestamp": "2026-09-21 03:49:33",
+  "testing": true
+}

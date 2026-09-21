@@ -1,0 +1,8 @@
+{
+  "addressType": "Post Office",
+  "deliveryMethod": "Postal Service",
+  "deliveryTime": "3-5 business days",
+  "verification": "Low",
+  "timestamp": "2026-09-21 03:49:19",
+  "testing": true
+}

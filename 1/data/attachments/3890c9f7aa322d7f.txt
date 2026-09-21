@@ -1,0 +1,2 @@
+template_name,category,priority,channels,status,timestamp
+Newsletter,Marketing,Low,email,testing,2026-09-21 03:49:17

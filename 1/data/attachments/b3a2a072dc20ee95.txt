@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "2Checkout",
+  "provider": "2Checkout",
+  "timestamp": "2026-09-21 03:46:12",
+  "status": "testing"
+}

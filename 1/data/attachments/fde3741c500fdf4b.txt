@@ -1,0 +1,11 @@
+{
+  "testType": "Session Timeout Test",
+  "vulnerability": "Session Hijacking",
+  "timeoutDuration": "30 minutes",
+  "inactivityThreshold": "15 minutes",
+  "protectionMethod": "Automatic Session Expiry",
+  "severity": "Medium",
+  "status": "Protected",
+  "timestamp": "2026-09-21 03:51:33",
+  "testing": true
+}

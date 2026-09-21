@@ -1,0 +1,2 @@
+test_type,vulnerability,password,strength_level,protection_method,severity,status,timestamp
+Password Strength Test,Weak Password,"abc123",Fair,Password Policy Enforcement,Medium,Rejected,2026-09-21 03:51:26

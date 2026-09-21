@@ -1,0 +1,4 @@
+channel,notifications_sent,success_rate,avg_delivery_time,last_sent
+email,1250,99.2%,150ms,2026-09-21 03:49:17
+sms,890,98.8%,300ms,2026-09-21 03:49:17
+push,2100,99.5%,50ms,2026-09-21 03:49:17

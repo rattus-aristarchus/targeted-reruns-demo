@@ -1,0 +1,12 @@
+{
+  "orderType": "new_order",
+  "products": [
+    {"id": "PROD-001", "name": "Laptop", "price": 999.99, "quantity": 1},
+    {"id": "PROD-002", "name": "Mouse", "price": 29.99, "quantity": 2},
+    {"id": "PROD-003", "name": "Keyboard", "price": 79.99, "quantity": 1}
+  ],
+  "totalAmount": 1139.96,
+  "currency": "USD",
+  "timestamp": "2026-09-21 03:49:50",
+  "testing": true
+}

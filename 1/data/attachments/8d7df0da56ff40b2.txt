@@ -1,0 +1,9 @@
+{
+  "deliveryMethod": "Real-time",
+  "reportName": "Delivery Method: Real-time",
+  "latency": "< 1s",
+  "frequency": "Continuous",
+  "reliability": "95%",
+  "timestamp": "2026-09-21 03:50:39",
+  "testing": true
+}

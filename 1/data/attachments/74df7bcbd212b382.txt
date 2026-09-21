@@ -1,0 +1,8 @@
+{
+  "sensor": "Gyroscope",
+  "type": "Motion",
+  "accuracy": "High",
+  "permission": "None",
+  "timestamp": "2026-09-21 03:46:40",
+  "status": "testing"
+}

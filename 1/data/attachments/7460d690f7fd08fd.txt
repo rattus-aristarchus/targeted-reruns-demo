@@ -1,0 +1,2 @@
+view_type,image_count,resolution,file_size,format,quality,timestamp
+Detail View,6,2560x1440,4.2 MB,PNG,High,2026-09-21 03:49:57

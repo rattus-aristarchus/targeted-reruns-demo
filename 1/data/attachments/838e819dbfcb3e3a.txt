@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+23,Case,Mobile,79.99,4.3,178,2026-09-21 03:49:57

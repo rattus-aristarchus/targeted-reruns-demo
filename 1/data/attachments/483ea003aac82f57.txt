@@ -1,0 +1,2 @@
+product_id,action,product_name,reason,backup_required,timestamp
+43,delete,Stand,Quality Issues,false,2026-09-21 03:49:57

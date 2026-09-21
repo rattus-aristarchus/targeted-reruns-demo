@@ -1,0 +1,8 @@
+{
+  "channel": "push",
+  "type": "Push",
+  "endpoint": "https://fcm.googleapis.com/fcm/send",
+  "priority": "High",
+  "timestamp": "2026-09-21 03:49:17",
+  "status": "testing"
+}

@@ -1,0 +1,8 @@
+{
+  "gesture": "Long Press",
+  "type": "hold",
+  "fingers": 1,
+  "duration": "long",
+  "timestamp": "2026-09-21 03:46:34",
+  "status": "testing"
+}

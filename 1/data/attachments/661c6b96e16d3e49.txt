@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+Nike,Sports,67,$25 - $299,4.4,2026-09-21 03:49:57

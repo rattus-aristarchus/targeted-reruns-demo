@@ -1,0 +1,8 @@
+{
+  "searchType": "alert",
+  "category": "Security",
+  "priority": "High",
+  "expectedResults": 3,
+  "timestamp": "2026-09-21 03:49:17",
+  "testing": true
+}

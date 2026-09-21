@@ -1,0 +1,2 @@
+export_format,mime_type,file_size,compatibility,timestamp
+Excel,application/vnd.ms-excel,1.8 MB,Microsoft Office,2026-09-21 03:50:54

@@ -1,0 +1,2 @@
+search_type,category,priority,expected_results,timestamp
+maintenance,System,Medium,8,2026-09-21 03:49:17

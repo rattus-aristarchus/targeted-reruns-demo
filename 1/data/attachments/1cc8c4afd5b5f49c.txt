@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><title>Device Orientation Report</title></head>
+<body><h1>Mobile Device Orientation Report</h1>
+<p>Generated: 2026-09-21 03:46:48</p>
+<h2>Orientation Details</h2>
+<ul>
+<li>Orientation: Portrait</li>
+<li>Dimensions: 375x667</li>
+<li>Width: 375px</li>
+<li>Height: 667px</li>
+<li>Is Landscape: false</li>
+</ul>
+</body></html>

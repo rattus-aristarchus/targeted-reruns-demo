@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Channel Report</title></head>
+<body><h1>Notification Channel Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:17</p>
+<h2>Channel Details</h2>
+<ul>
+<li>Channel: teams</li>
+<li>Type: Team</li>
+<li>Endpoint: https://outlook.office.com/webhook/...</li>
+<li>Priority: Medium</li>
+</ul>
+</body></html>

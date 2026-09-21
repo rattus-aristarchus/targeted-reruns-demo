@@ -1,0 +1,12 @@
+{
+  "testType": "Invalid Credentials Test",
+  "vulnerability": "Authentication Bypass",
+  "username": "nonexistentuser",
+  "password": "anypassword",
+  "credentialType": "Non-existent User",
+  "protectionMethod": "Credential Validation",
+  "severity": "Medium",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 03:51:19",
+  "testing": true
+}

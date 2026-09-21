@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Schedule Report</title></head>
+<body><h1>Notification Schedule Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:17</p>
+<h2>Schedule Details</h2>
+<ul>
+<li>Schedule: 1 hour</li>
+<li>Type: Short-term</li>
+<li>Duration: 1 hour</li>
+<li>Frequency: Medium</li>
+</ul>
+</body></html>

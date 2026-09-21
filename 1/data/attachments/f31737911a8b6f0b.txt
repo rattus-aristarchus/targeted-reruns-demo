@@ -1,0 +1,9 @@
+{
+  "shippingMethod": "Economy",
+  "deliveryTime": "5-7 business days",
+  "cost": 4.99,
+  "tracking": false,
+  "insurance": false,
+  "timestamp": "2026-09-21 03:49:55",
+  "testing": true
+}

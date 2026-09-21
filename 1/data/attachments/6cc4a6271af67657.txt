@@ -1,0 +1,10 @@
+{
+  "productId": 34,
+  "name": "Camera",
+  "category": "Photography",
+  "price": 1299.99,
+  "rating": 4.6,
+  "reviews": 156,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

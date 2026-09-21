@@ -1,0 +1,8 @@
+{
+  "network": "5G",
+  "speed": "100-1000 Mbps",
+  "latency": "1-10ms",
+  "reliability": "Very High",
+  "timestamp": "2026-09-21 03:47:00",
+  "status": "testing"
+}

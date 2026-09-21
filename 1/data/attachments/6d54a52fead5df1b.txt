@@ -1,0 +1,8 @@
+{
+  "deliveryMethod": "recurring",
+  "type": "Periodic",
+  "delay": "As per schedule",
+  "reliability": "High",
+  "timestamp": "2026-09-21 03:49:17",
+  "testing": true
+}

@@ -1,0 +1,9 @@
+{
+  "productId": 49,
+  "action": "delete",
+  "productName": "Mechanical Keyboard",
+  "reason": "Quality Issues",
+  "backup": false,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

@@ -1,0 +1,8 @@
+{
+  "channel": "teams",
+  "type": "Team",
+  "endpoint": "https://outlook.office.com/webhook/...",
+  "priority": "Medium",
+  "timestamp": "2026-09-21 03:49:17",
+  "status": "testing"
+}

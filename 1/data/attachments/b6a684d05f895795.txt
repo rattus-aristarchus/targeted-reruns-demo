@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order ID Report</title></head>
+<body><h1>Order ID Testing Report</h1>
+<p>Generated: 2026-09-21 03:49:19</p>
+<h2>Order Details</h2>
+<ul>
+<li>Order ID: 62</li>
+<li>Status: shipped</li>
+<li>Customer: bob.johnson@example.com</li>
+<li>Total: $299.99</li>
+</ul>
+</body></html>

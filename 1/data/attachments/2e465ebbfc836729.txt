@@ -1,0 +1,6 @@
+{
+  "syncJobs": [
+    {"id": "user-sync", "status": "success"},
+    {"id": "order-sync", "status": "success"}
+  ]
+}

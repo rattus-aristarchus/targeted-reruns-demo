@@ -1,0 +1,8 @@
+{
+  "endpoint": "/api/issues",
+  "method": "POST",
+  "title": "Second Note",
+  "owner": "allure-framework, not-allure-framework",
+  "repo": "allure2",
+  "timestamp": "2026-09-21 03:46:29"
+}

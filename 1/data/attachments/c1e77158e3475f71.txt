@@ -1,0 +1,9 @@
+{
+  "userRole": "Analyst",
+  "reportName": "User Role: Analyst",
+  "permissions": "Analytical Access",
+  "accessLevel": "Level 3",
+  "reportScope": "Analytical Reports",
+  "timestamp": "2026-09-21 03:50:36",
+  "testing": true
+}

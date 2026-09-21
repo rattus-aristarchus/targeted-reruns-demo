@@ -1,0 +1,10 @@
+{
+  "productId": 24,
+  "name": "Cable",
+  "category": "Photography",
+  "price": 149.99,
+  "rating": 4.0,
+  "reviews": 112,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

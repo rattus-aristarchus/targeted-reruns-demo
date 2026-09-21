@@ -1,0 +1,2 @@
+method_id,payment_method,provider,status,timestamp
+INT-T2,Square,Square,testing,2026-09-21 03:46:07

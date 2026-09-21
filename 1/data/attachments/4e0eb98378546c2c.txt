@@ -1,0 +1,2 @@
+test_type,vulnerability,username,password,credential_type,protection_method,severity,status,timestamp
+Invalid Credentials Test,Authentication Bypass,"nonexistentuser","anypassword",Non-existent User,Credential Validation,Medium,Rejected,2026-09-21 03:51:19

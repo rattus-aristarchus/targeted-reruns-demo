@@ -1,0 +1,2 @@
+address_type,delivery_method,delivery_time,verification,timestamp
+Post Office,Postal Service,3-5 business days,Low,2026-09-21 03:49:19

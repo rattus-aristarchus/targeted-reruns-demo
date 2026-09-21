@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+33,Tablet,Mobile,899.99,3.9,67,2026-09-21 03:49:57

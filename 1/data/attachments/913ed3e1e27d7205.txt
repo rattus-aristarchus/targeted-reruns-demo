@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "Worldpay",
+  "provider": "Worldpay",
+  "timestamp": "2026-09-21 03:46:11",
+  "status": "testing"
+}

@@ -1,0 +1,10 @@
+{
+  "viewType": "Package View",
+  "imageCount": 2,
+  "resolution": "1280x720",
+  "fileSize": "1.2 MB",
+  "format": "JPEG",
+  "quality": "Medium",
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

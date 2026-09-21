@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event-schema>
+  <system id="event-system" version="2.3.0">
+    <brokers>
+      <broker name="kafka" host="kafka-cluster:9092">
+        <status>active</status>
+        <topics>
+          <topic>user-events</topic>
+          <topic>order-events</topic>
+          <topic>payment-events</topic>
+          <topic>notification-events</topic>
+        </topics>
+      </broker>
+      <broker name="rabbitmq" host="rabbitmq:5672">
+        <status>standby</status>
+      </broker>
+    </brokers>
+  </system>
+</event-schema>

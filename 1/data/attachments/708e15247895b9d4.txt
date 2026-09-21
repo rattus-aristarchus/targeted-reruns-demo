@@ -1,0 +1,2 @@
+report_type,period,frequency,data_points,format,timestamp
+Time-based Report,Monthly,30 days,30,PDF,2026-09-21 03:50:50

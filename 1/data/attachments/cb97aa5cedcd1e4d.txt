@@ -1,0 +1,10 @@
+{
+  "productId": 31,
+  "name": "Laptop",
+  "category": "Computers",
+  "price": 299.99,
+  "rating": 4.2,
+  "reviews": 89,
+  "timestamp": "2026-09-21 03:49:57",
+  "testing": true
+}

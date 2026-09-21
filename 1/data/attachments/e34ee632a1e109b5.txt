@@ -1,0 +1,2 @@
+level,priority,color,status,timestamp
+WARN,2,#FF9800,active,2026-09-21 03:46:31
