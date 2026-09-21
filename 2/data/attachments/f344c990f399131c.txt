@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-schema>
+  <workflow id="wf-001">
+    <name>Order Processing Workflow</name>
+    <version>1.0.0</version>
+    <steps>
+      <step id="validate" type="validation">
+        <name>Validate Order</name>
+        <timeout>30s</timeout>
+      </step>
+      <step id="payment" type="payment">
+        <name>Process Payment</name>
+        <timeout>60s</timeout>
+      </step>
+    </steps>
+    <transitions>
+      <transition from="validate" to="payment" condition="valid"/>
+      <transition from="payment" to="inventory" condition="success"/>
+    </transitions>
+  </workflow>
+</workflow-schema>

@@ -1,0 +1,10 @@
+{
+  "viewType": "Detail View",
+  "imageCount": 6,
+  "resolution": "2560x1440",
+  "fileSize": "4.2 MB",
+  "format": "PNG",
+  "quality": "High",
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

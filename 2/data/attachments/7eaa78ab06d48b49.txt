@@ -1,0 +1,2 @@
+mode,latency,throughput,status,timestamp
+Scheduled,1-60 minutes,500 logs/min,active,2026-09-21 16:17:16

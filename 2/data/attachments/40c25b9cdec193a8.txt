@@ -1,0 +1,2 @@
+content_type,format,validation,complexity,timestamp
+Multilingual,Multi-language,Language Detection,Very High,2026-09-21 16:20:01

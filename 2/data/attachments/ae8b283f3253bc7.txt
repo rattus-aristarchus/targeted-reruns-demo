@@ -1,0 +1,8 @@
+{
+  "gesture": "Swipe",
+  "type": "drag",
+  "fingers": 1,
+  "duration": "short",
+  "timestamp": "2026-09-21 16:17:17",
+  "status": "testing"
+}

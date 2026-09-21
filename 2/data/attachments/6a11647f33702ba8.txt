@@ -1,0 +1,4 @@
+timestamp,channel,status,delivery_time
+2026-09-21 16:20:02,email,delivered,150ms
+2026-09-21 16:20:02,sms,delivered,300ms
+2026-09-21 16:20:02,push,delivered,50ms

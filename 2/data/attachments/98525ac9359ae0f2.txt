@@ -1,0 +1,10 @@
+{
+  "category": "Electronics",
+  "productId": "PROD-ELE-1457",
+  "name": "Smart Phone",
+  "price": 599.99,
+  "description": "High-quality electronics product with excellent features and durability.",
+  "inventory": 25,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

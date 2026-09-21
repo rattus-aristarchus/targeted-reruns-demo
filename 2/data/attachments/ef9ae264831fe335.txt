@@ -1,0 +1,10 @@
+{
+  "category": "Home",
+  "productId": "PROD-HOM-1467",
+  "name": "Coffee Maker",
+  "price": 89.99,
+  "description": "High-quality home product with excellent features and durability.",
+  "inventory": 40,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

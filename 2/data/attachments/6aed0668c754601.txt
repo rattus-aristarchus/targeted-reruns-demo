@@ -1,0 +1,2 @@
+test_type,vulnerability,timeout_duration,inactivity_threshold,protection_method,severity,status,timestamp
+Session Timeout Test,Session Hijacking,30 minutes,15 minutes,Automatic Session Expiry,Medium,Protected,2026-09-21 16:22:25

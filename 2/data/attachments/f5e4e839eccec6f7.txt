@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order Status Update Report</title></head>
+<body><h1>Order Status Update Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:03</p>
+<h2>Status Details</h2>
+<ul>
+<li>Order: Order C</li>
+<li>New Status: delivered</li>
+<li>Previous Status: shipped</li>
+<li>Priority: High</li>
+</ul>
+</body></html>

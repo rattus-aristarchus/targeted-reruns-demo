@@ -1,0 +1,2 @@
+shipping_method,delivery_time,cost,tracking,insurance,timestamp
+Standard,3-5 business days,9.99,true,false,2026-09-21 16:20:35

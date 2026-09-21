@@ -1,0 +1,9 @@
+{
+  "variantType": "Color",
+  "options": ["Red", "Blue", "Green", "Black", "White"],
+  "defaultOption": "Black",
+  "priceImpact": "No impact",
+  "availability": true,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

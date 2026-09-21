@@ -1,0 +1,10 @@
+{
+  "templateName": "Welcome",
+  "category": "User Onboarding",
+  "priority": "Low",
+  "channels": [
+    "email,push"
+  ],
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

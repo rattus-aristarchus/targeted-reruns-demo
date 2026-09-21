@@ -1,0 +1,8 @@
+{
+  "deliveryMethod": "scheduled",
+  "type": "Time-based",
+  "delay": "As scheduled",
+  "reliability": "Very High",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

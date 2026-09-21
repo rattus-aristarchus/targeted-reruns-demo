@@ -1,0 +1,9 @@
+{
+  "brand": "Apple",
+  "category": "Electronics",
+  "productCount": 45,
+  "priceRange": "$99 - $2,999",
+  "averageRating": 4.6,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

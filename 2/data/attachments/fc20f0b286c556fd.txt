@@ -1,0 +1,9 @@
+{
+  "category": "Access",
+  "filename": "access.log",
+  "path": "/var/log/access.log",
+  "rotation": "daily",
+  "retention": "30 days",
+  "timestamp": "2026-09-21 16:17:16",
+  "status": "active"
+}

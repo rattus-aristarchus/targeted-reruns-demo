@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+30,Smart Phone,Electronics,99.99,4.5,125,2026-09-21 16:20:41

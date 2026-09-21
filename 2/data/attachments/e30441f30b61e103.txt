@@ -1,0 +1,9 @@
+{
+  "shippingMethod": "Express",
+  "deliveryTime": "1-2 business days",
+  "cost": 19.99,
+  "tracking": true,
+  "insurance": true,
+  "timestamp": "2026-09-21 16:20:36",
+  "testing": true
+}

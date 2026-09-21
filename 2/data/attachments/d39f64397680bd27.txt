@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Browser Report</title></head>
+<body><h1>Mobile Browser Testing Report</h1>
+<p>Generated: 2026-09-21 16:17:49</p>
+<h2>Browser Details</h2>
+<ul>
+<li>Browser: Samsung Internet</li>
+<li>Engine: Blink</li>
+<li>Version: 23.0</li>
+<li>Platform: Android</li>
+</ul>
+</body></html>

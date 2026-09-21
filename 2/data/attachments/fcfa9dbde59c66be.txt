@@ -1,0 +1,10 @@
+{
+  "productId": 25,
+  "name": "Mouse",
+  "category": "Wearables",
+  "price": 399.99,
+  "rating": 4.4,
+  "reviews": 145,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

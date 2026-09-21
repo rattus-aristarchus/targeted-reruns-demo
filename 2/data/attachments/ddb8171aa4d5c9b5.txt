@@ -1,0 +1,2 @@
+search_type,category,priority,expected_results,timestamp
+security,Security,Critical,5,2026-09-21 16:20:01

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><title>Product ID Report</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.product{background:#e3f2fd;padding:20px;border-radius:4px;margin:20px 0;border-left:4px solid #2196f3;}
+.feature{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #ddd;}
+.feature:last-child{border-bottom:none;}
+.rating{display:inline-block;padding:3px 8px;border-radius:12px;color:white;font-size:11px;}
+.excellent{background:#4caf50;}
+.good{background:#8bc34a;}
+.average{background:#ff9800;}
+.poor{background:#f44336;}
+.price{font-size:18px;font-weight:bold;color:#1976d2;}
+</style></head>
+<body><div class="container">
+<h1>🔍 Product ID Report</h1>
+<p>Generated: 2026-09-21 16:20:41</p>
+<div class="product">
+<h2>Product ID: 26</h2>
+<div class="feature">
+<span><strong>Name:</strong></span>
+<span>Keyboard</span>
+</div>
+<div class="feature">
+<span><strong>Category:</strong></span>
+<span>Accessories</span>
+</div>
+<div class="feature">
+<span><strong>Price:</strong></span>
+<span class="price">$699.99</span>
+</div>
+<div class="feature">
+<span><strong>Rating:</strong></span>
+<span class="rating excellent">4.9/5</span>
+</div>
+<div class="feature">
+<span><strong>Reviews:</strong></span>
+<span>267 reviews</span>
+</div>
+</div>
+</div></body></html>

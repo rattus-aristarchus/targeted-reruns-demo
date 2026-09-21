@@ -1,0 +1,11 @@
+{
+  "testType": "File Upload Security Test",
+  "vulnerability": "Malicious File Upload",
+  "fileExtension": ".php",
+  "fileType": "PHP Script",
+  "protectionMethod": "File Type Validation",
+  "severity": "High",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 16:22:19",
+  "testing": true
+}

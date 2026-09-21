@@ -1,0 +1,10 @@
+{
+  "reportType": "Product Report",
+  "metric": "Performance",
+  "reportName": "Report Type: Product - Performance",
+  "category": "Performance",
+  "complexity": "Medium",
+  "format": "PDF",
+  "timestamp": "2026-09-21 16:21:36",
+  "testing": true
+}

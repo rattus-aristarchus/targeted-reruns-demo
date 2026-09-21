@@ -1,0 +1,9 @@
+{
+  "visualizationType": "Table",
+  "reportName": "Visualization: Table",
+  "interactivity": "Medium",
+  "dataDensity": "High",
+  "renderingTime": "1.8s",
+  "timestamp": "2026-09-21 16:21:48",
+  "testing": true
+}

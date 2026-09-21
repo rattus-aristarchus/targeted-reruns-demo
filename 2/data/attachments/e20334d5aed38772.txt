@@ -1,0 +1,10 @@
+{
+  "reportType": "Time-based Report",
+  "period": "Quarterly",
+  "reportName": "Time Report: Quarterly",
+  "frequency": "90 days",
+  "dataPoints": 12,
+  "format": "PDF",
+  "timestamp": "2026-09-21 16:21:40",
+  "testing": true
+}

@@ -1,0 +1,9 @@
+{
+  "orderName": "Order D",
+  "expectedTotal": 499.99,
+  "currency": "USD",
+  "taxRate": 9.5,
+  "shipping": 0.0,
+  "timestamp": "2026-09-21 16:20:03",
+  "testing": true
+}

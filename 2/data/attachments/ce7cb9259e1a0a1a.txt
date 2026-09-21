@@ -1,0 +1,11 @@
+{
+  "testType": "XSS Prevention",
+  "vulnerability": "Cross-Site Scripting",
+  "payload": "<svg onload=alert('XSS')>",
+  "payloadType": "SVG Tag",
+  "protectionMethod": "Input Sanitization",
+  "severity": "High",
+  "status": "Blocked",
+  "timestamp": "2026-09-21 16:22:01",
+  "testing": true
+}

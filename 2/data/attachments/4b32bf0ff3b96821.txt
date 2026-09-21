@@ -1,0 +1,2 @@
+delivery_method,latency,frequency,reliability,timestamp
+Streaming,< 500ms,Continuous,97%,2026-09-21 16:21:32

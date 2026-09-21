@@ -1,0 +1,2 @@
+availability,product_count,restock_date,shipping_time,price_change,timestamp
+discontinued,8,N/A,N/A,Clearance: 50% off,2026-09-21 16:20:41

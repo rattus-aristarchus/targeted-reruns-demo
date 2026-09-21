@@ -1,0 +1,16 @@
+{
+  "workflowId": "wf-001",
+  "name": "Order Processing Workflow",
+  "version": "1.0.0",
+  "steps": [
+    {"id": "validate", "name": "Validate Order", "type": "validation"},
+    {"id": "payment", "name": "Process Payment", "type": "payment"},
+    {"id": "inventory", "name": "Check Inventory", "type": "inventory"},
+    {"id": "shipping", "name": "Prepare Shipping", "type": "shipping"}
+  ],
+  "conditions": [
+    {"from": "validate", "to": "payment", "condition": "valid"},
+    {"from": "payment", "to": "inventory", "condition": "success"},
+    {"from": "inventory", "to": "shipping", "condition": "available"}
+  ]
+}

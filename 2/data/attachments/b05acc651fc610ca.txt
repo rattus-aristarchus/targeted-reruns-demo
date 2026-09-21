@@ -1,0 +1,2 @@
+format,mime_type,encoding,status,timestamp
+XML,application/xml,UTF-8,active,2026-09-21 16:17:16

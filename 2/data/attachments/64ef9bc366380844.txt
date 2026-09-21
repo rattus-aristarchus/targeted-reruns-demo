@@ -1,0 +1,10 @@
+{
+  "templateName": "Stock Alert",
+  "category": "Inventory",
+  "priority": "High",
+  "channels": [
+    "email,sms"
+  ],
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

@@ -1,0 +1,2 @@
+region,population,sales_volume,market_share,timestamp
+East,22,$2.2M,25%,2026-09-21 16:21:13

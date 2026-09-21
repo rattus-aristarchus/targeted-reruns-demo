@@ -1,0 +1,2 @@
+address_type,delivery_method,delivery_time,verification,timestamp
+Pickup Point,Pickup Service,1-2 business days,High,2026-09-21 16:20:04

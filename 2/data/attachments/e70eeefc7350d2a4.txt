@@ -1,0 +1,9 @@
+{
+  "brand": "Nikon",
+  "category": "Photography",
+  "productCount": 19,
+  "priceRange": "$199 - $5,999",
+  "averageRating": 4.8,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

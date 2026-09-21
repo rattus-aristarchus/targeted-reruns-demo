@@ -1,0 +1,2 @@
+state,type,impact,battery,status,timestamp
+Battery Optimization,Power,Medium,Saves,testing,2026-09-21 16:17:30

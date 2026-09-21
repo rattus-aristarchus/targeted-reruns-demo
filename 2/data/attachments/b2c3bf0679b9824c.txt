@@ -1,0 +1,9 @@
+{
+  "priorityLevel": "Critical",
+  "reportName": "Priority: Critical",
+  "processingTime": "< 30s",
+  "resourceAllocation": "Maximum",
+  "notificationLevel": "All Channels",
+  "timestamp": "2026-09-21 16:21:55",
+  "testing": true
+}

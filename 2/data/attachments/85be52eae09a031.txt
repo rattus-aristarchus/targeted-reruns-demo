@@ -1,0 +1,9 @@
+{
+  "rating": 2,
+  "productCount": 67,
+  "averagePrice": 99.99,
+  "topBrand": "Generic",
+  "category": "General",
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

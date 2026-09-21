@@ -1,0 +1,10 @@
+{
+  "reportType": "Time-based Report",
+  "period": "Daily",
+  "reportName": "Time Report: Daily",
+  "frequency": "24 hours",
+  "dataPoints": 24,
+  "format": "PDF",
+  "timestamp": "2026-09-21 16:21:37",
+  "testing": true
+}

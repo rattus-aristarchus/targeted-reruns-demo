@@ -1,0 +1,8 @@
+{
+  "notificationId": 94,
+  "status": "read",
+  "priority": "normal",
+  "channel": "discord",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

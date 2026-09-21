@@ -1,0 +1,8 @@
+{
+  "channel": "slack",
+  "type": "Team",
+  "endpoint": "https://hooks.slack.com/services/...",
+  "priority": "Low",
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

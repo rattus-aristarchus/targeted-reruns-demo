@@ -1,0 +1,4 @@
+gateway,success_rate,avg_response_time,transactions,revenue,timestamp
+Stripe,99.8%,150ms,1247,$12450,2026-09-21 16:17:05
+PayPal,99.5%,200ms,892,$8900,2026-09-21 16:17:05
+Square,99.2%,180ms,456,$4560,2026-09-21 16:17:05

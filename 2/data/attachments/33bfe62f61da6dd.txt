@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+31,Laptop,Computers,299.99,4.2,89,2026-09-21 16:20:41

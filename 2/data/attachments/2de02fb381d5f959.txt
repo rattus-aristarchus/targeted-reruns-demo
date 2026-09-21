@@ -1,0 +1,8 @@
+{
+  "notificationId": 105,
+  "action": "delete",
+  "reason": "User Request",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

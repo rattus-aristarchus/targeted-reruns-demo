@@ -1,0 +1,9 @@
+{
+  "productId": 41,
+  "action": "delete",
+  "productName": "Adapter",
+  "reason": "Low Sales",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

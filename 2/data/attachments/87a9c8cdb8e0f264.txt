@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Log Destination Report</title></head>
+<body><h1>Log Destination Processing Report</h1>
+<p>Generated: 2026-09-21 16:17:16</p>
+<h2>Destination Details</h2>
+<ul>
+<li>Destination: File</li>
+<li>Type: storage</li>
+<li>Enabled: true</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

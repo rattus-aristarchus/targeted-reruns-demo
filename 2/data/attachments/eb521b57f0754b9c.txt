@@ -1,0 +1,8 @@
+{
+  "device": "iPhone",
+  "os": "iOS",
+  "category": "Smartphone",
+  "screenSize": "4.7-6.7 inches",
+  "timestamp": "2026-09-21 16:17:51",
+  "status": "testing"
+}

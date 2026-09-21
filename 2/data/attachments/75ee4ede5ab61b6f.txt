@@ -1,0 +1,2 @@
+event_type,category,priority,status,timestamp
+Payment Received,business,medium,processed,2026-09-21 16:16:24

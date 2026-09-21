@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Notification Delivery Report</title></head>
+<body><h1>Notification Delivery Report</h1>
+<p>Generated: 2026-09-21 16:20:02</p>
+<h2>Delivery Statistics</h2>
+<ul>
+<li>Total Sent: 4,240</li>
+<li>Success Rate: 99.2%</li>
+<li>Average Delivery Time: 167ms</li>
+</ul>
+</body></html>

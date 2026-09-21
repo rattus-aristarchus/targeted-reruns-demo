@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Search Report</title></head>
+<body><h1>Notification Search Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:01</p>
+<h2>Search Details</h2>
+<ul>
+<li>Type: alert</li>
+<li>Category: Security</li>
+<li>Priority: High</li>
+<li>Expected Results: 3</li>
+</ul>
+</body></html>

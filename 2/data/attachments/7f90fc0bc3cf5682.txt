@@ -1,0 +1,6 @@
+Database: PostgreSQL
+Host: localhost:5432
+Database: testdb
+User: testuser
+Status: Connected
+Response Time: 15ms

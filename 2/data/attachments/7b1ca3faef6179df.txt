@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+25,Mouse,Wearables,399.99,4.4,145,2026-09-21 16:20:41

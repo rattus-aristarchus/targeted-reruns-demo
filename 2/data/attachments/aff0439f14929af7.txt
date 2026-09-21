@@ -1,0 +1,8 @@
+{
+  "searchType": "order",
+  "category": "E-commerce",
+  "priority": "Medium",
+  "expectedResults": 25,
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

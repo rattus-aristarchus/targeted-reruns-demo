@@ -1,0 +1,8 @@
+{
+  "schedule": "1 week",
+  "type": "Long-term",
+  "duration": "7 days",
+  "frequency": "Very Low",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

@@ -1,0 +1,4 @@
+field,status,value,timestamp
+email,valid,user@example.com,2026-09-21 16:16:22
+password,valid,********,2026-09-21 16:16:22
+age,valid,25,2026-09-21 16:16:22

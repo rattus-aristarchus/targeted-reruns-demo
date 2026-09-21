@@ -1,0 +1,9 @@
+{
+  "brand": "LG",
+  "category": "Electronics",
+  "productCount": 34,
+  "priceRange": "$89 - $1,299",
+  "averageRating": 4.1,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

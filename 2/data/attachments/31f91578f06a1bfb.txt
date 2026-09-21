@@ -1,0 +1,9 @@
+{
+  "itemCount": 10,
+  "orderType": "multiple_items",
+  "estimatedTotal": 999.9,
+  "shippingWeight": 15.0,
+  "priority": "High",
+  "timestamp": "2026-09-21 16:20:28",
+  "testing": true
+}

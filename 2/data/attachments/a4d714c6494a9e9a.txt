@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+Adidas,Sports,52,$20 - $249,4.2,2026-09-21 16:20:41

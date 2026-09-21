@@ -1,0 +1,5 @@
+User ID: USR-001
+Reason: Account closure request
+Data Retention: 30 days
+Backup: Created
+Deleted: 2026-09-21 16:22:28

@@ -1,0 +1,2 @@
+test_type,vulnerability,payload_type,payload,protection_method,severity,status,timestamp
+XSS Prevention,Cross-Site Scripting,Image Tag,"<img src=x onerror=alert('XSS')>",Input Sanitization,High,Blocked,2026-09-21 16:22:00

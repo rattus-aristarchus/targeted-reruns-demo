@@ -1,0 +1,10 @@
+{
+  "templateName": "Maintenance",
+  "category": "System",
+  "priority": "Medium",
+  "channels": [
+    "email,push"
+  ],
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

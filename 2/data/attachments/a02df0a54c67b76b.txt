@@ -1,0 +1,11 @@
+{
+  "testType": "XSS Prevention",
+  "vulnerability": "Cross-Site Scripting",
+  "payload": "javascript:void(alert('XSS'))",
+  "payloadType": "JavaScript URL",
+  "protectionMethod": "Input Sanitization",
+  "severity": "High",
+  "status": "Blocked",
+  "timestamp": "2026-09-21 16:22:02",
+  "testing": true
+}

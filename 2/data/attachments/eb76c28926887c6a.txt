@@ -1,0 +1,2 @@
+test_type,vulnerability,protocol,redirect_to,protection_method,severity,status,timestamp
+HTTP to HTTPS Redirect Test,Insecure Communication,HTTP,HTTPS,Automatic Redirect,Medium,Redirected,2026-09-21 16:22:07

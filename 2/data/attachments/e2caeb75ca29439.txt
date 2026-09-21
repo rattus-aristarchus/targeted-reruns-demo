@@ -1,0 +1,2 @@
+notification_type,order_id,delivery_time,priority,template,enabled,timestamp
+Email,ORD-12345,1-2 minutes,Medium,order_email_template.html,true,2026-09-21 16:20:09

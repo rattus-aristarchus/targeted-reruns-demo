@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Logging Use Case Report</title></head>
+<body><h1>Logging Use Case Report</h1>
+<p>Generated: 2026-09-21 16:17:16</p>
+<h2>Use Case Details</h2>
+<ul>
+<li>Use Case: Compliance</li>
+<li>Priority: High</li>
+<li>Retention: 5 years</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

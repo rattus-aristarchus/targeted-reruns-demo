@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Books,PROD-BOO-1465,Programming Guide,19.99,High-quality books product with excellent features and durability.,75,2026-09-21 16:20:41

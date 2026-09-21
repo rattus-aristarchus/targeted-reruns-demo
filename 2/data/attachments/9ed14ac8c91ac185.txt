@@ -1,0 +1,2 @@
+schedule,type,duration,frequency,timestamp
+1 day,Medium-term,24 hours,Low,2026-09-21 16:20:01

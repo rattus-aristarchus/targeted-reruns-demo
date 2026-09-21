@@ -1,0 +1,12 @@
+{
+  "testType": "Invalid Credentials Test",
+  "vulnerability": "Authentication Bypass",
+  "username": "admin'",
+  "password": "admin",
+  "credentialType": "SQL Injection Attempt",
+  "protectionMethod": "Credential Validation",
+  "severity": "Medium",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 16:22:12",
+  "testing": true
+}

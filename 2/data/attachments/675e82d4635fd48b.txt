@@ -1,0 +1,10 @@
+{
+  "size": "Extra Large",
+  "width": 25.0,
+  "height": 20.0,
+  "depth": 15.0,
+  "weight": 3.5,
+  "volume": 7500.0,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

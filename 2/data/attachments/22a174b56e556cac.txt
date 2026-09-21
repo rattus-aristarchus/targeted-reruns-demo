@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Delivery Method Report</title></head>
+<body><h1>Delivery Method Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:01</p>
+<h2>Delivery Details</h2>
+<ul>
+<li>Method: conditional</li>
+<li>Type: Event-driven</li>
+<li>Delay: Event dependent</li>
+<li>Reliability: Medium</li>
+</ul>
+</body></html>

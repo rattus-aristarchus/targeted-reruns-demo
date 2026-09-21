@@ -1,0 +1,5 @@
+function validateData(data) {
+  const results = [];
+  // Validation logic here
+  return results;
+}

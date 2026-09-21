@@ -1,0 +1,2 @@
+view_type,image_count,resolution,file_size,format,quality,timestamp
+Front View,3,1920x1080,2.3 MB,JPEG,High,2026-09-21 16:20:41

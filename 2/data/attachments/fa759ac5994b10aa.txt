@@ -1,0 +1,9 @@
+{
+  "exportFormat": "Excel",
+  "reportName": "Export Format: Excel",
+  "mimeType": "application/vnd.ms-excel",
+  "fileSize": "1.8 MB",
+  "compatibility": "Microsoft Office",
+  "timestamp": "2026-09-21 16:21:43",
+  "testing": true
+}

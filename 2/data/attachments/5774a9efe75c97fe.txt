@@ -1,0 +1,2 @@
+search_type,category,priority,expected_results,timestamp
+product,E-commerce,Low,15,2026-09-21 16:20:01

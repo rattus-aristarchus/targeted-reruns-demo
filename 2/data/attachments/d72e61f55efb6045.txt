@@ -1,0 +1,2 @@
+category,filename,path,rotation,retention,status,timestamp
+Error,error.log,/var/log/error.log,daily,30 days,active,2026-09-21 16:17:16

@@ -1,0 +1,8 @@
+{
+  "priority": "low",
+  "level": 1,
+  "color": "#4CAF50",
+  "expectedCount": 50,
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

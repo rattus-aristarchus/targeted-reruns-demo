@@ -1,0 +1,2 @@
+product_id,action,product_name,reason,backup_required,timestamp
+45,delete,Smart Watch,Discontinued,false,2026-09-21 16:20:41

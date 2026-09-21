@@ -1,0 +1,2 @@
+schedule,type,duration,frequency,timestamp
+1 week,Long-term,7 days,Very Low,2026-09-21 16:20:01

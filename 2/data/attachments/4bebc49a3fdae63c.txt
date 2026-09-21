@@ -1,0 +1,2 @@
+order_id,status,customer,total,timestamp
+60,pending,john.doe@example.com,99.99,2026-09-21 16:20:04

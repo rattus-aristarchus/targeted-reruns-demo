@@ -1,0 +1,16 @@
+{
+  "testId": "mobile-responsive",
+  "breakpoints": [
+    {"name": "mobile", "min": 320, "max": 767, "status": "active"},
+    {"name": "tablet", "min": 768, "max": 1023, "status": "active"},
+    {"name": "desktop", "min": 1024, "max": 1920, "status": "active"}
+  ],
+  "features": [
+    "flexible-grid",
+    "flexible-images",
+    "media-queries",
+    "touch-friendly"
+  ],
+  "timestamp": "2026-09-21 16:17:26",
+  "status": "testing"
+}

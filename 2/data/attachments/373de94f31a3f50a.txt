@@ -1,0 +1,8 @@
+{
+  "gesture": "Double Tap",
+  "type": "double-tap",
+  "fingers": 1,
+  "duration": "instant",
+  "timestamp": "2026-09-21 16:17:20",
+  "status": "testing"
+}

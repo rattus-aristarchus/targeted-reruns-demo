@@ -1,0 +1,9 @@
+{
+  "availability": "pre_order",
+  "productCount": 12,
+  "restockDate": "2024-03-01",
+  "shippingTime": "3-5 business days",
+  "priceChange": Pre-order discount: 10%,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

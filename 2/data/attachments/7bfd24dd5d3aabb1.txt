@@ -1,0 +1,8 @@
+{
+  "priority": "critical",
+  "level": 5,
+  "color": "#F44336",
+  "expectedCount": 3,
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

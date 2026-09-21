@@ -1,0 +1,6 @@
+Query: SELECT * FROM users WHERE active = true
+Rows: 1,250
+Execution Time: 45ms
+Cache Hit: Yes
+Index Used: idx_users_active
+Timestamp: 2026-09-21 16:16:23

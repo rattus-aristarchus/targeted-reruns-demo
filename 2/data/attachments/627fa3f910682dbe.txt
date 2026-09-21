@@ -1,0 +1,2 @@
+mode,latency,throughput,status,timestamp
+Real-time,< 1ms,1000+ logs/sec,active,2026-09-21 16:17:16

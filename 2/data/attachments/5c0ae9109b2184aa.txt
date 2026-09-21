@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Device Report</title></head>
+<body><h1>Mobile Device Testing Report</h1>
+<p>Generated: 2026-09-21 16:17:53</p>
+<h2>Device Details</h2>
+<ul>
+<li>Device: iPad</li>
+<li>OS: iPadOS</li>
+<li>Category: Tablet</li>
+<li>Screen Size: 9.7-12.9 inches</li>
+</ul>
+</body></html>

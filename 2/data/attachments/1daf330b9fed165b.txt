@@ -1,0 +1,8 @@
+{
+  "orderId": 67,
+  "action": "delete",
+  "reason": "Data Retention Policy",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:03",
+  "testing": true
+}

@@ -1,0 +1,9 @@
+{
+  "deliveryDate": "Tomorrow",
+  "expectedMethod": "Next Day",
+  "shippingCost": 29.99,
+  "cutoffTime": "11:00 PM",
+  "availability": true,
+  "timestamp": "2026-09-21 16:20:15",
+  "testing": true
+}

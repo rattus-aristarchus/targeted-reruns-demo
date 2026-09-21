@@ -1,0 +1,9 @@
+{
+  "productId": 48,
+  "action": "delete",
+  "productName": "4K Monitor",
+  "reason": "Discontinued",
+  "backup": true,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

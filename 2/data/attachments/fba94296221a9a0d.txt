@@ -1,0 +1,8 @@
+{
+  "customerEmail": "alice.brown@example.com",
+  "customerType": "Standard",
+  "expectedOrders": 8,
+  "lastOrderDate": "2024-01-10",
+  "timestamp": "2026-09-21 16:20:03",
+  "testing": true
+}

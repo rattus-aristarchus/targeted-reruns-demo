@@ -1,0 +1,9 @@
+{
+  "deliveryDate": "Next Month",
+  "expectedMethod": "Economy",
+  "shippingCost": 4.99,
+  "cutoffTime": "11:59 PM",
+  "availability": false,
+  "timestamp": "2026-09-21 16:20:17",
+  "testing": true
+}

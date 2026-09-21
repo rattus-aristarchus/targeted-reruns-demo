@@ -1,0 +1,2 @@
+schedule,type,duration,frequency,timestamp
+custom,Custom,User defined,Variable,2026-09-21 16:20:01

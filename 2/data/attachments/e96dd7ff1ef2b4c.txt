@@ -1,0 +1,9 @@
+{
+  "language": "German",
+  "reportName": "Language: German",
+  "locale": "de-DE",
+  "characterSet": "UTF-8",
+  "textDirection": "LTR",
+  "timestamp": "2026-09-21 16:21:19",
+  "testing": true
+}

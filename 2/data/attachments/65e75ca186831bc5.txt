@@ -1,0 +1,2 @@
+test_type,vulnerability,attack_vector,protection_method,severity,status,timestamp
+SQL Injection Prevention,SQL Injection,Login Form,Parameterized Queries,High,Protected,2026-09-21 16:22:24

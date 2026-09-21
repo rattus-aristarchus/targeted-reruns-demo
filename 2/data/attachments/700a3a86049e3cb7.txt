@@ -1,0 +1,10 @@
+{
+  "productId": 21,
+  "name": "Speaker",
+  "category": "Computers",
+  "price": 49.99,
+  "rating": 4.7,
+  "reviews": 201,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

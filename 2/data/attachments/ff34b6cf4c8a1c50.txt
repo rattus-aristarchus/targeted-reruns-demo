@@ -1,0 +1,8 @@
+{
+  "channel": "sms",
+  "type": "SMS",
+  "endpoint": "https://api.twilio.com/v1/Messages",
+  "priority": "High",
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

@@ -1,0 +1,8 @@
+{
+  "schedule": "5 minutes",
+  "type": "Short-term",
+  "duration": "5 minutes",
+  "frequency": "High",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

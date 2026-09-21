@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Delete Report</title></head>
+<body><h1>Notification Delete Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:01</p>
+<h2>Delete Details</h2>
+<ul>
+<li>Notification ID: 98</li>
+<li>Action: Delete</li>
+<li>Reason: System Cleanup</li>
+<li>Backup Required: true</li>
+</ul>
+</body></html>

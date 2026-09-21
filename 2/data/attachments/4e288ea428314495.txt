@@ -1,0 +1,8 @@
+{
+  "sensor": "Microphone",
+  "type": "Audio",
+  "accuracy": "High",
+  "permission": "Microphone",
+  "timestamp": "2026-09-21 16:17:23",
+  "status": "testing"
+}

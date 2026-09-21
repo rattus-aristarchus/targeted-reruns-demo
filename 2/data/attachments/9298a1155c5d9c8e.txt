@@ -1,0 +1,8 @@
+{
+  "channel": "email",
+  "type": "Email",
+  "endpoint": "smtp://mail.example.com:587",
+  "priority": "Medium",
+  "timestamp": "2026-09-21 16:20:01",
+  "status": "testing"
+}

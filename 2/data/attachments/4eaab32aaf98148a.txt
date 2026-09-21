@@ -1,0 +1,2 @@
+order_status,order_id,estimated_delivery,tracking_number,last_update,timestamp
+Shipped,ORD-12345,1-2 business days,1Z999AA1234567890,2024-01-21 09:45:00,2026-09-21 16:20:31

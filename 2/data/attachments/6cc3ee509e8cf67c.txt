@@ -1,0 +1,9 @@
+{
+  "productId": 39,
+  "action": "delete",
+  "productName": "Charger",
+  "reason": "Discontinued",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

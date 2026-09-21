@@ -1,0 +1,2 @@
+language,locale,character_set,text_direction,timestamp
+Spanish,es-ES,UTF-8,LTR,2026-09-21 16:21:17

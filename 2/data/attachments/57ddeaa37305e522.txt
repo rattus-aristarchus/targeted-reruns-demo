@@ -1,0 +1,5 @@
+View: Real-time
+Load Time: 150ms
+Data Points: 1,440
+Memory Usage: 45MB
+Cache Hit Rate: 15%

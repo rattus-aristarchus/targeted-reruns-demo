@@ -1,0 +1,10 @@
+{
+  "notificationType": "Push",
+  "orderId": "ORD-12345",
+  "deliveryTime": "5-15 seconds",
+  "priority": "High",
+  "template": "order_push_template.json",
+  "enabled": true,
+  "timestamp": "2026-09-21 16:20:11",
+  "testing": true
+}

@@ -1,0 +1,2 @@
+item_count,estimated_total,shipping_weight,priority,timestamp
+1,99.99,1.5,Low,2026-09-21 16:20:20

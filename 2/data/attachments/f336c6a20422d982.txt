@@ -1,0 +1,8 @@
+{
+  "paymentMethod": "bank_transfer",
+  "provider": "Banking API",
+  "processingTime": "1-3 business days",
+  "security": "Very High",
+  "timestamp": "2026-09-21 16:20:03",
+  "testing": true
+}

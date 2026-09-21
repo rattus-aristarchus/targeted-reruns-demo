@@ -1,0 +1,8 @@
+{
+  "schedule": "custom",
+  "type": "Custom",
+  "duration": "User defined",
+  "frequency": "Variable",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

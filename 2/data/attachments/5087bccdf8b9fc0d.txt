@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html><head><title>Data Sync Status</title></head>
+<body><h1>Data Sync Status</h1>
+<p>Last updated: 2026-09-21 16:16:24</p>
+<ul><li>User Sync: ✅ Success</li><li>Order Sync: ✅ Success</li></ul>
+</body></html>

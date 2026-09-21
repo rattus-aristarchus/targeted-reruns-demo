@@ -1,0 +1,2 @@
+content_type,format,validation,complexity,timestamp
+Template,Template,Template Engine,High,2026-09-21 16:20:01

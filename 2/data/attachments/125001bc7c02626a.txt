@@ -1,0 +1,2 @@
+action,product,status,timestamp
+edit,Test Product,success,2026-09-21 16:21:06

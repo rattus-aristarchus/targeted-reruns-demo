@@ -1,0 +1,9 @@
+{
+  "orientation": "Square",
+  "dimensions": "400x400",
+  "width": 400,
+  "height": 400,
+  "isLandscape": false,
+  "timestamp": "2026-09-21 16:17:34",
+  "status": "testing"
+}

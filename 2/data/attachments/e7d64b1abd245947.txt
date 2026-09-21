@@ -1,0 +1,2 @@
+rating,product_count,average_price,top_brand,top_category,timestamp
+5,89,299.99,Apple,Electronics,2026-09-21 16:20:41

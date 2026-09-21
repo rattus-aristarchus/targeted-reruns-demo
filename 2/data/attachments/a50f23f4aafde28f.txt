@@ -1,0 +1,9 @@
+{
+  "deliveryMethod": "On-demand",
+  "reportName": "Delivery Method: On-demand",
+  "latency": "2-5s",
+  "frequency": "As Needed",
+  "reliability": "98%",
+  "timestamp": "2026-09-21 16:21:29",
+  "testing": true
+}

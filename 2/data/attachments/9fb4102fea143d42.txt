@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Automotive,PROD-AUT-1471,Car Charger,39.99,High-quality automotive product with excellent features and durability.,30,2026-09-21 16:20:41

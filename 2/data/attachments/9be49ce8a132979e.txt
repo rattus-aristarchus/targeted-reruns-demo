@@ -1,0 +1,7 @@
+{
+  "eventType": "Order Placed",
+  "category": "business",
+  "priority": "medium",
+  "timestamp": "2026-09-21 16:16:24",
+  "status": "processed"
+}

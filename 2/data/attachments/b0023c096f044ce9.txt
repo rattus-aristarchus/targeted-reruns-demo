@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html><head><title>Data Validation Report</title></head>
+<body><h1>Data Validation Report</h1>
+<p>Generated: 2026-09-21 16:16:22</p>
+<ul><li>Email: ✅ Valid</li><li>Password: ✅ Valid</li><li>Age: ✅ Valid</li></ul>
+</body></html>

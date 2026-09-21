@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order Delete Report</title></head>
+<body><h1>Order Delete Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:03</p>
+<h2>Delete Details</h2>
+<ul>
+<li>Order ID: 67</li>
+<li>Action: Delete</li>
+<li>Reason: Data Retention Policy</li>
+<li>Backup Required: false</li>
+</ul>
+</body></html>

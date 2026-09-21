@@ -1,0 +1,90 @@
+// Logging System JavaScript
+class LoggingSystem {
+    constructor(config) {
+        this.systemId = config.systemId;
+        this.version = config.version;
+        this.appenders = config.appenders;
+        this.loggers = config.loggers;
+        this.metrics = {
+            totalLogs: 0,
+            errorCount: 0,
+            storageUsed: 0
+        };
+    }
+
+    log(level, message, logger = 'root') {
+        const logEntry = {
+            timestamp: new Date().toISOString(),
+            level: level.toUpperCase(),
+            logger: logger,
+            message: message,
+            thread: 'main'
+        };
+
+        // Simulate log processing
+        this.processLogEntry(logEntry);
+        
+        this.metrics.totalLogs++;
+        if (level === 'ERROR' || level === 'FATAL') {
+            this.metrics.errorCount++;
+        }
+        
+        return logEntry;
+    }
+
+    processLogEntry(logEntry) {
+        // Simulate appender processing
+        this.appenders.forEach(appender => {
+            if (this.shouldLogToAppender(logEntry, appender)) {
+                this.writeToAppender(logEntry, appender);
+            }
+        });
+    }
+
+    shouldLogToAppender(logEntry, appender) {
+        const levelPriority = { 'DEBUG': 0, 'INFO': 1, 'WARN': 2, 'ERROR': 3, 'FATAL': 4 };
+        const entryPriority = levelPriority[logEntry.level] || 0;
+        const appenderPriority = levelPriority[appender.level] || 0;
+        
+        return entryPriority >= appenderPriority;
+    }
+
+    writeToAppender(logEntry, appender) {
+        const formattedLog = this.formatLogEntry(logEntry);
+        
+        switch (appender.type) {
+            case 'ConsoleAppender':
+                console.log(formattedLog);
+                break;
+            case 'FileAppender':
+                // Simulate file writing
+                this.metrics.storageUsed += formattedLog.length;
+                break;
+            case 'RollingFileAppender':
+                // Simulate rolling file writing
+                this.metrics.storageUsed += formattedLog.length;
+                break;
+        }
+    }
+
+    formatLogEntry(logEntry) {
+        return `${logEntry.timestamp} [${logEntry.thread}] ${logEntry.level.padEnd(5)} ${logEntry.logger} - ${logEntry.message}`;
+    }
+
+    getMetrics() {
+        const errorRate = this.metrics.totalLogs > 0 ? 
+            (this.metrics.errorCount / this.metrics.totalLogs * 100).toFixed(1) + '%' : '0%';
+        
+        return {
+            ...this.metrics,
+            errorRate,
+            storageUsedMB: Math.round(this.metrics.storageUsed / 1024 / 1024 * 100) / 100 + ' MB'
+        };
+    }
+}
+
+// Usage example
+const loggingSystem = new LoggingSystem(loggingConfig);
+loggingSystem.log('INFO', 'Application started', 'com.example');
+loggingSystem.log('ERROR', 'Database connection failed', 'com.example.db');
+console.log('Metrics:', loggingSystem.getMetrics());

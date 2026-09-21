@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notification-schema>
+  <system id="notification-system">
+    <channels>
+      <channel type="email" enabled="true">
+        <priority>high</priority>
+        <timeout>5000</timeout>
+      </channel>
+      <channel type="sms" enabled="true">
+        <priority>medium</priority>
+        <timeout>10000</timeout>
+      </channel>
+    </channels>
+  </system>
+</notification-schema>

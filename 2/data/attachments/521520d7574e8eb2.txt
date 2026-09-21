@@ -1,0 +1,74 @@
+// Notification System JavaScript
+class NotificationManager {
+    constructor(config) {
+        this.channels = config.channels;
+        this.metrics = {
+            totalSent: 0,
+            successCount: 0,
+            failureCount: 0
+        };
+    }
+
+    async sendNotification(message, channel = 'email') {
+        const channelConfig = this.channels.find(c => c.type === channel);
+        if (!channelConfig || !channelConfig.enabled) {
+            throw new Error(`Channel ${channel} is not available`);
+        }
+
+        try {
+            const startTime = Date.now();
+            
+            // Simulate notification sending
+            await this.simulateNotificationSending(message, channel);
+            
+            const deliveryTime = Date.now() - startTime;
+            this.metrics.totalSent++;
+            this.metrics.successCount++;
+            
+            return {
+                success: true,
+                channel: channel,
+                deliveryTime: deliveryTime + 'ms',
+                messageId: this.generateMessageId()
+            };
+        } catch (error) {
+            this.metrics.failureCount++;
+            return {
+                success: false,
+                error: error.message,
+                channel: channel
+            };
+        }
+    }
+
+    async simulateNotificationSending(message, channel) {
+        // Simulate network delay
+        const delay = Math.random() * 200 + 50;
+        await new Promise(resolve => setTimeout(resolve, delay));
+        
+        // Simulate occasional failures
+        if (Math.random() < 0.01) {
+            throw new Error(`Failed to send ${channel} notification`);
+        }
+    }
+
+    generateMessageId() {
+        return 'msg_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+    }
+
+    getMetrics() {
+        const successRate = this.metrics.totalSent > 0 ? 
+            (this.metrics.successCount / this.metrics.totalSent * 100).toFixed(1) + '%' : '0%';
+        
+        return {
+            ...this.metrics,
+            successRate
+        };
+    }
+}
+
+// Usage example
+const notificationManager = new NotificationManager(notificationConfig);
+notificationManager.sendNotification('Test notification', 'email')
+    .then(result => console.log('Notification sent:', result))
+    .catch(error => console.error('Notification failed:', error));

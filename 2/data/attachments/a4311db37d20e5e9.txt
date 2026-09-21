@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><title>Screen Resolution Report</title></head>
+<body><h1>Mobile Screen Resolution Report</h1>
+<p>Generated: 2026-09-21 16:17:56</p>
+<h2>Resolution Details</h2>
+<ul>
+<li>Resolution: 320x568</li>
+<li>Width: 320px</li>
+<li>Height: 568px</li>
+<li>Aspect Ratio: 40:71</li>
+<li>Device Type: Mobile</li>
+</ul>
+</body></html>

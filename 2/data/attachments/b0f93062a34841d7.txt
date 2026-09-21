@@ -1,0 +1,2 @@
+delivery_method,latency,frequency,reliability,timestamp
+Batch,30-60s,Hourly,99.5%,2026-09-21 16:21:30

@@ -1,0 +1,8 @@
+{
+  "notificationName": "Notification C",
+  "newStatus": "read",
+  "previousStatus": "delivered",
+  "priority": "Low",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

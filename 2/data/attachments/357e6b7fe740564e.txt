@@ -1,0 +1,8 @@
+{
+  "prId": "AE-T6",
+  "branch": "new-feature",
+  "owner": "allure-framework, not-allure-framework",
+  "repo": "allure2",
+  "timestamp": "2026-09-21 16:21:09",
+  "status": "open"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "Nike",
+  "category": "Sports",
+  "productCount": 67,
+  "priceRange": "$25 - $299",
+  "averageRating": 4.4,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

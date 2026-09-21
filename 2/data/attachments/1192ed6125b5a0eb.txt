@@ -1,0 +1,2 @@
+size,width,height,depth,weight,volume,timestamp
+Extra Large,25.0,20.0,15.0,3.5,7500.0,2026-09-21 16:20:41

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Status Report</title></head>
+<body><h1>Notification Status Update Report</h1>
+<p>Generated: 2026-09-21 16:20:01</p>
+<h2>Status Details</h2>
+<ul>
+<li>Notification: Notification C</li>
+<li>New Status: read</li>
+<li>Previous Status: delivered</li>
+<li>Priority: Low</li>
+</ul>
+</body></html>

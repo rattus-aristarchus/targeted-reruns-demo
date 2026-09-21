@@ -1,0 +1,9 @@
+{
+  "integrationId": "INT-T1",
+  "gateway": "Stripe",
+  "endpoint": "https://api.stripe.com/v1",
+  "apiKey": "sk_test_...",
+  "webhookUrl": "https://example.com/webhooks/stripe",
+  "timestamp": "2026-09-21 16:17:05",
+  "status": "active"
+}

@@ -1,0 +1,2 @@
+state,type,impact,battery,status,timestamp
+Background Sync,Performance,Medium,Uses,testing,2026-09-21 16:17:28

@@ -1,0 +1,9 @@
+{
+  "rating": 3,
+  "productCount": 234,
+  "averagePrice": 149.99,
+  "topBrand": "Sony",
+  "category": "Accessories",
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

@@ -1,0 +1,2 @@
+payment_method,processing_time,security_level,fees,refund_time,timestamp
+Credit Card,2-5 seconds,High,2.9,3-5 business days,2026-09-21 16:20:04

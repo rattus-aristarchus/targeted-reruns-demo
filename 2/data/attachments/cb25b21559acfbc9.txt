@@ -1,0 +1,2 @@
+date_range,start_date,end_date,expected_orders,timestamp
+last_month,2023-12-01,2023-12-31,95,2026-09-21 16:20:03

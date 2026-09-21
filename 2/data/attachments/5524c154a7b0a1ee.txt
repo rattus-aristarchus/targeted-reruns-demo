@@ -1,0 +1,4 @@
+product_id,product_name,price,quantity,subtotal,timestamp
+PROD-001,Laptop,999.99,1,999.99,2026-09-21 16:20:34
+PROD-002,Mouse,29.99,2,59.98,2026-09-21 16:20:34
+PROD-003,Keyboard,79.99,1,79.99,2026-09-21 16:20:34

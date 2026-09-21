@@ -1,0 +1,11 @@
+{
+  "testType": "File Upload Security Test",
+  "vulnerability": "Malicious File Upload",
+  "fileExtension": ".sh",
+  "fileType": "Shell Script",
+  "protectionMethod": "File Type Validation",
+  "severity": "High",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 16:22:22",
+  "testing": true
+}

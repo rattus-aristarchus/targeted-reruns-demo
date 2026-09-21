@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+LG,Electronics,34,$89 - $1,299,4.1,2026-09-21 16:20:41

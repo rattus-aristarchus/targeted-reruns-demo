@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order Creation Report</title></head>
+<body><h1>Order Creation Testing Report</h1>
+<p>Generated: 2026-09-21 16:20:03</p>
+<h2>Order Details</h2>
+<ul>
+<li>Status: pending</li>
+<li>Priority: Low</li>
+<li>Processing Time: 0-5 minutes</li>
+<li>Next Status: processing</li>
+</ul>
+</body></html>

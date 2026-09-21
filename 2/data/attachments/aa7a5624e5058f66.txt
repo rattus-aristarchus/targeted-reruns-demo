@@ -1,0 +1,2 @@
+payment_method,provider,processing_time,security,timestamp
+credit_card,Stripe,2-5 seconds,High,2026-09-21 16:20:03

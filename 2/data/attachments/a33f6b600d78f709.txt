@@ -1,0 +1,50 @@
+// Analytics Dashboard JavaScript
+class AnalyticsDashboard {
+    constructor(config) {
+        this.config = config;
+        this.metrics = {};
+        this.charts = [];
+        this.refreshInterval = null;
+    }
+
+    async loadMetrics() {
+        try {
+            const response = await fetch('/api/analytics/metrics');
+            const data = await response.json();
+            this.metrics = data;
+            this.updateWidgets();
+            this.log('Metrics loaded successfully');
+        } catch (error) {
+            this.log('Error loading metrics: ' + error.message);
+        }
+    }
+
+    updateWidgets() {
+        Object.keys(this.metrics).forEach(key => {
+            const widget = document.getElementById(key);
+            if (widget) {
+                widget.textContent = this.metrics[key];
+                widget.classList.add('updated');
+            }
+        });
+    }
+
+    startAutoRefresh() {
+        this.refreshInterval = setInterval(() => {
+            this.loadMetrics();
+        }, this.config.refreshInterval * 1000);
+    }
+
+    log(message) {
+        console.log(`[AnalyticsDashboard] ${new Date().toISOString()}: ${message}`);
+    }
+}
+
+// Initialize dashboard
+const dashboard = new AnalyticsDashboard({
+    refreshInterval: 30,
+    theme: 'dark',
+    autoRefresh: true
+});
+dashboard.loadMetrics();
+dashboard.startAutoRefresh();

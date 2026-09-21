@@ -1,0 +1,10 @@
+{
+  "notificationType": "SMS",
+  "orderId": "ORD-12345",
+  "deliveryTime": "30-60 seconds",
+  "priority": "High",
+  "template": "order_sms_template.txt",
+  "enabled": true,
+  "timestamp": "2026-09-21 16:20:10",
+  "testing": true
+}

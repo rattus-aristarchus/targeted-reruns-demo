@@ -1,0 +1,11 @@
+{
+  "testType": "XSS Prevention",
+  "vulnerability": "Cross-Site Scripting",
+  "payload": "<img src=x onerror=alert('XSS')>",
+  "payloadType": "Image Tag",
+  "protectionMethod": "Input Sanitization",
+  "severity": "High",
+  "status": "Blocked",
+  "timestamp": "2026-09-21 16:22:00",
+  "testing": true
+}

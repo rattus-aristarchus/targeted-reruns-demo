@@ -1,0 +1,9 @@
+{
+  "productId": 43,
+  "action": "delete",
+  "productName": "Stand",
+  "reason": "Quality Issues",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

@@ -1,0 +1,9 @@
+{
+  "productId": 47,
+  "action": "delete",
+  "productName": "Wireless Earbuds",
+  "reason": "Low Sales",
+  "backup": false,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

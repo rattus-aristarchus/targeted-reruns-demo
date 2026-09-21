@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<integration-schema>
+  <payment-gateway name="Stripe">
+    <endpoint>https://api.stripe.com/v1</endpoint>
+    <authentication type="api_key">
+      <key>sk_test_...</key>
+    </authentication>
+    <webhooks>
+      <webhook url="https://example.com/webhooks/stripe" events="payment.succeeded,payment.failed"/>
+    </webhooks>
+    <timeout>30000</timeout>
+    <retries>3</retries>
+  </payment-gateway>
+</integration-schema>

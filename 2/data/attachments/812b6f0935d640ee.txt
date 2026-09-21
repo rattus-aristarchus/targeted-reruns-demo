@@ -1,0 +1,2 @@
+variant_type,options,default_option,price_impact,availability,timestamp
+Pattern,["Solid", "Striped", "Polka Dot", "Floral", "Geometric"],Solid,No impact,false,2026-09-21 16:20:41

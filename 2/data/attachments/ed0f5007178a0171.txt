@@ -1,0 +1,8 @@
+{
+  "notificationId": 92,
+  "status": "sent",
+  "priority": "medium",
+  "channel": "telegram",
+  "timestamp": "2026-09-21 16:20:01",
+  "testing": true
+}

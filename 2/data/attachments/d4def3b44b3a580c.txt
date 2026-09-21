@@ -1,0 +1,16 @@
+{
+  "dashboard": {
+    "name": "Main Analytics Dashboard",
+    "version": "2.1.0",
+    "refreshInterval": 30,
+    "timezone": "UTC",
+    "widgets": [
+      {"type": "revenue", "position": "top-left", "title": "Revenue Trend"},
+      {"type": "users", "position": "top-right", "title": "Active Users"},
+      {"type": "conversion", "position": "bottom-left", "title": "Conversion Rate"},
+      {"type": "orders", "position": "bottom-right", "title": "Order Volume"}
+    ],
+    "theme": "dark",
+    "autoRefresh": true
+  }
+}

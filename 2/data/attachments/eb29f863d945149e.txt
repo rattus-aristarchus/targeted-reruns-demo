@@ -1,0 +1,83 @@
+// Event System JavaScript
+class EventSystem {
+    constructor(config) {
+        this.systemId = config.systemId;
+        this.version = config.version;
+        this.brokers = config.brokers;
+        this.topics = config.topics;
+        this.metrics = {
+            eventsProcessed: 0,
+            successCount: 0,
+            failureCount: 0,
+            totalProcessingTime: 0
+        };
+    }
+
+    async publishEvent(topic, eventData) {
+        const startTime = Date.now();
+        
+        try {
+            const event = {
+                id: this.generateEventId(),
+                topic: topic,
+                data: eventData,
+                timestamp: new Date().toISOString(),
+                version: this.version
+            };
+
+            // Simulate event publishing
+            await this.simulateEventPublishing(event);
+            
+            const processingTime = Date.now() - startTime;
+            this.metrics.eventsProcessed++;
+            this.metrics.successCount++;
+            this.metrics.totalProcessingTime += processingTime;
+            
+            return {
+                success: true,
+                eventId: event.id,
+                processingTime: processingTime + 'ms'
+            };
+        } catch (error) {
+            this.metrics.failureCount++;
+            return {
+                success: false,
+                error: error.message
+            };
+        }
+    }
+
+    async simulateEventPublishing(event) {
+        // Simulate network delay
+        const delay = Math.random() * 50 + 20;
+        await new Promise(resolve => setTimeout(resolve, delay));
+        
+        // Simulate occasional failures
+        if (Math.random() < 0.003) {
+            throw new Error('Event publishing failed');
+        }
+    }
+
+    generateEventId() {
+        return 'evt_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+    }
+
+    getMetrics() {
+        const successRate = this.metrics.eventsProcessed > 0 ? 
+            (this.metrics.successCount / this.metrics.eventsProcessed * 100).toFixed(1) + '%' : '0%';
+        const avgProcessingTime = this.metrics.eventsProcessed > 0 ? 
+            Math.round(this.metrics.totalProcessingTime / this.metrics.eventsProcessed) + 'ms' : '0ms';
+        
+        return {
+            ...this.metrics,
+            successRate,
+            avgProcessingTime
+        };
+    }
+}
+
+// Usage example
+const eventSystem = new EventSystem(eventConfig);
+eventSystem.publishEvent('user-events', { userId: '12345', action: 'created' })
+    .then(result => console.log('Event published:', result))
+    .catch(error => console.error('Event publishing failed:', error));

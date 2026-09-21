@@ -1,0 +1,9 @@
+{
+  "brand": "Dell",
+  "category": "Computers",
+  "productCount": 41,
+  "priceRange": "$299 - $2,499",
+  "averageRating": 4.0,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

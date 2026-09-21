@@ -1,0 +1,9 @@
+{
+  "priorityLevel": "Medium",
+  "reportName": "Priority: Medium",
+  "processingTime": "2-5 min",
+  "resourceAllocation": "Medium",
+  "notificationLevel": "Email + SMS",
+  "timestamp": "2026-09-21 16:21:53",
+  "testing": true
+}

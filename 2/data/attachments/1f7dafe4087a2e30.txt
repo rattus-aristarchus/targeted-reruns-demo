@@ -1,0 +1,10 @@
+{
+  "category": "Automotive",
+  "productId": "PROD-AUT-1471",
+  "name": "Car Charger",
+  "price": 39.99,
+  "description": "High-quality automotive product with excellent features and durability.",
+  "inventory": 30,
+  "timestamp": "2026-09-21 16:20:41",
+  "testing": true
+}

@@ -1,0 +1,2 @@
+rating,product_count,average_price,top_brand,top_category,timestamp
+4,156,199.99,Samsung,Computers,2026-09-21 16:20:41

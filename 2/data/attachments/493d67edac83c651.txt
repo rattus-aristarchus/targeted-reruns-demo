@@ -1,0 +1,2 @@
+customer_email,customer_type,expected_orders,last_order_date,timestamp
+charlie.wilson@example.com,Basic,3,2024-01-05,2026-09-21 16:20:03

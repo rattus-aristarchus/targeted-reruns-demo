@@ -1,0 +1,10 @@
+class IntegrationManager {
+  constructor(config) {
+    this.integrations = config.integrations;
+  }
+
+  async checkStatus(integrationName) {
+    const integration = this.integrations.find(i => i.name === integrationName);
+    return { online: true, responseTime: '250ms' };
+  }
+}

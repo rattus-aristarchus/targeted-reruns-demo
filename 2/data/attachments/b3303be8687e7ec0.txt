@@ -1,0 +1,2 @@
+gesture,type,fingers,duration,status,timestamp
+Double Tap,double-tap,1,instant,testing,2026-09-21 16:17:20

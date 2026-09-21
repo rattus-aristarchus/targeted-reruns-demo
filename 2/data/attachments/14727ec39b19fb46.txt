@@ -1,0 +1,2 @@
+rating,product_count,average_price,top_brand,top_category,timestamp
+2,67,99.99,Generic,General,2026-09-21 16:20:41

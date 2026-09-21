@@ -1,0 +1,2 @@
+shipping_method,delivery_time,cost,tracking,insurance,timestamp
+Same Day,Same day,49.99,true,true,2026-09-21 16:20:38
