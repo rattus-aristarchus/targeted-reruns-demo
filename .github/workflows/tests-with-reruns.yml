@@ -101,3 +101,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: allure-history
+          # This workflow and run-tests.yml both trigger on every push and both
+          # publish to gh-pages, so their pushes can race. force_orphan makes
+          # ours always succeed (a fresh commit, no fast-forward required)
+          # instead of failing with a non-fast-forward rejection. The allure
+          # history itself isn't lost by this: it's carried as files via the
+          # "Get Allure history" checkout + keep_reports above, not via git
+          # commit ancestry on this branch.
+          force_orphan: true
