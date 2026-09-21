@@ -1,0 +1,18 @@
+{
+  "integrations": [
+    {
+      "name": "Payment Gateway",
+      "type": "payment",
+      "endpoint": "https://api.payment.com/v1",
+      "auth": "bearer",
+      "timeout": 30000
+    },
+    {
+      "name": "Shipping Provider",
+      "type": "shipping",
+      "endpoint": "https://api.shipping.com/v2",
+      "auth": "api_key",
+      "timeout": 15000
+    }
+  ]
+}

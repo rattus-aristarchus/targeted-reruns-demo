@@ -1,0 +1,10 @@
+{
+  "productId": 28,
+  "name": "Printer",
+  "category": "Storage",
+  "price": 1599.99,
+  "rating": 4.5,
+  "reviews": 189,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

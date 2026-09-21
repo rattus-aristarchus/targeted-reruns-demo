@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Log Field Report</title></head>
+<body><h1>Log Field Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:56</p>
+<h2>Field Details</h2>
+<ul>
+<li>Field: Timestamp</li>
+<li>Type: datetime</li>
+<li>Required: true</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

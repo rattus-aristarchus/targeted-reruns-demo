@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Network Report</title></head>
+<body><h1>Mobile Network Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:23</p>
+<h2>Network Details</h2>
+<ul>
+<li>Network: 4G</li>
+<li>Speed: 10-50 Mbps</li>
+<li>Latency: 50-200ms</li>
+<li>Reliability: High</li>
+</ul>
+</body></html>

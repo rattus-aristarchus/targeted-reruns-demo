@@ -1,0 +1,7 @@
+{
+  "methodId": "INT-T2",
+  "paymentMethod": "Square",
+  "provider": "Square",
+  "timestamp": "2026-09-21 13:37:33",
+  "status": "testing"
+}

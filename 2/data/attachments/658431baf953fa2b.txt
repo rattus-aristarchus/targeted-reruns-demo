@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><title>Order Notification Report</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.notification{background:#f3e5f5;padding:20px;border-radius:4px;margin:20px 0;border-left:4px solid #9c27b0;}
+.feature{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #ddd;}
+.feature:last-child{border-bottom:none;}
+.priority{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;}
+.high{background:#f44336;}
+.medium{background:#ff9800;}
+.low{background:#4caf50;}
+.status{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;}
+.enabled{background:#4caf50;}
+.disabled{background:#f44336;}
+</style></head>
+<body><div class="container">
+<h1>🔔 Order Notification Report</h1>
+<p>Generated: 2026-09-21 13:40:51</p>
+<div class="notification">
+<h2>Notification Type: Push</h2>
+<div class="feature">
+<span><strong>Order ID:</strong></span>
+<span>ORD-12345</span>
+</div>
+<div class="feature">
+<span><strong>Delivery Time:</strong></span>
+<span>5-15 seconds</span>
+</div>
+<div class="feature">
+<span><strong>Priority:</strong></span>
+<span class="priority high">High</span>
+</div>
+<div class="feature">
+<span><strong>Template:</strong></span>
+<span>order_push_template.json</span>
+</div>
+<div class="feature">
+<span><strong>Status:</strong></span>
+<span class="status enabled">Enabled</span>
+</div>
+</div>
+</div></body></html>

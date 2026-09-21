@@ -1,0 +1,10 @@
+{
+  "category": "Garden",
+  "productId": "PROD-GAR-785",
+  "name": "Plant Pot",
+  "price": 15.99,
+  "description": "High-quality garden product with excellent features and durability.",
+  "inventory": 200,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

@@ -1,0 +1,7 @@
+{
+  "useCase": "Debugging",
+  "priority": "Low",
+  "retention": "7 days",
+  "timestamp": "2026-09-21 13:37:56",
+  "status": "active"
+}

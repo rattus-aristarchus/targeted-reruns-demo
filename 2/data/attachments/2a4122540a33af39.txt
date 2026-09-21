@@ -1,0 +1,2 @@
+resolution,width,height,aspect_ratio,device_type,status,timestamp
+1024x1366,1024,1366,512:683,Desktop,testing,2026-09-21 13:38:40

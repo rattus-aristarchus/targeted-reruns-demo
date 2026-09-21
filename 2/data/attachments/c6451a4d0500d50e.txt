@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Product Edit Report</title></head>
+<body><h1>Product Edit Report</h1>
+<p>Generated: 2026-09-21 13:41:46</p>
+<h2>Edit Details</h2>
+<ul>
+<li>Product: Test Product</li>
+<li>Action: Updated</li>
+<li>Status: Success</li>
+</ul>
+</body></html>

@@ -1,0 +1,77 @@
+// Workflow Management JavaScript
+class WorkflowManager {
+    constructor(workflowDef) {
+        this.workflow = workflowDef;
+        this.currentStep = null;
+        this.executionLog = [];
+        this.status = 'idle';
+    }
+
+    async executeWorkflow(data) {
+        this.status = 'running';
+        this.executionLog = [];
+        
+        try {
+            for (const step of this.workflow.steps) {
+                this.currentStep = step.id;
+                const result = await this.executeStep(step, data);
+                this.logStep(step.id, result);
+                
+                if (!result.success) {
+                    this.status = 'failed';
+                    return result;
+                }
+            }
+            
+            this.status = 'completed';
+            return { success: true, message: 'Workflow completed successfully' };
+        } catch (error) {
+            this.status = 'error';
+            return { success: false, error: error.message };
+        }
+    }
+
+    async executeStep(step, data) {
+        const startTime = Date.now();
+        
+        // Simulate step execution
+        await new Promise(resolve => setTimeout(resolve, Math.random() * 300 + 100));
+        
+        const duration = Date.now() - startTime;
+        return {
+            success: true,
+            duration: duration + 'ms',
+            message: `${step.name} completed successfully`
+        };
+    }
+
+    logStep(stepId, result) {
+        this.executionLog.push({
+            step: stepId,
+            timestamp: new Date().toISOString(),
+            status: result.success ? 'success' : 'failed',
+            duration: result.duration,
+            message: result.message
+        });
+    }
+
+    getExecutionSummary() {
+        const total = this.executionLog.length;
+        const successful = this.executionLog.filter(log => log.status === 'success').length;
+        const failed = total - successful;
+        
+        return {
+            total,
+            successful,
+            failed,
+            successRate: total > 0 ? (successful / total * 100).toFixed(1) + '%' : '0%',
+            status: this.status
+        };
+    }
+}
+
+// Usage example
+const workflowManager = new WorkflowManager(workflowDefinition);
+workflowManager.executeWorkflow(orderData)
+    .then(result => console.log('Workflow result:', result))
+    .catch(error => console.error('Workflow error:', error));

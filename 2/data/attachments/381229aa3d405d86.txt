@@ -1,0 +1,2 @@
+mode,latency,throughput,status,timestamp
+Event-driven,< 100ms,500+ logs/sec,active,2026-09-21 13:37:56

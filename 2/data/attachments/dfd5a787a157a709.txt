@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Home,PROD-HOM-773,Coffee Maker,89.99,High-quality home product with excellent features and durability.,40,2026-09-21 13:41:20

@@ -1,0 +1,8 @@
+{
+  "dateRange": "this_week",
+  "startDate": "2024-01-15",
+  "endDate": "2024-01-21",
+  "expectedOrders": 25,
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

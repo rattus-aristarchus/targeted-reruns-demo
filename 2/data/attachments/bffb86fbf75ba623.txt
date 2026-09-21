@@ -1,0 +1,11 @@
+{
+  "testType": "HTTP to HTTPS Redirect Test",
+  "vulnerability": "Insecure Communication",
+  "protocol": "HTTP",
+  "redirectTo": "HTTPS",
+  "protectionMethod": "Automatic Redirect",
+  "severity": "Medium",
+  "status": "Redirected",
+  "timestamp": "2026-09-21 13:42:45",
+  "testing": true
+}

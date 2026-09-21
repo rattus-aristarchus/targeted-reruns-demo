@@ -1,0 +1,2 @@
+network,speed,latency,reliability,status,timestamp
+2G,50-100 kbps,500-1000ms,Low,testing,2026-09-21 13:38:21

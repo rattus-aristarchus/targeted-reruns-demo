@@ -1,0 +1,2 @@
+template_name,category,priority,channels,status,timestamp
+Security Alert,Security,Critical,email,sms,push,testing,2026-09-21 13:40:42

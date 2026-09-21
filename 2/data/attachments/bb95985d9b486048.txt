@@ -1,0 +1,8 @@
+{
+  "browser": "iOS Safari",
+  "engine": "WebKit",
+  "version": "17.0",
+  "platform": "iOS",
+  "timestamp": "2026-09-21 13:38:26",
+  "status": "testing"
+}

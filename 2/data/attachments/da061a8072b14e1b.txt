@@ -1,0 +1,10 @@
+{
+  "size": "Custom",
+  "width": 18.5,
+  "height": 14.2,
+  "depth": 9.8,
+  "weight": 1.8,
+  "volume": 2574.46,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

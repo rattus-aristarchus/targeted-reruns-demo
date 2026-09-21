@@ -1,0 +1,10 @@
+{
+  "templateName": "Order Update",
+  "category": "E-commerce",
+  "priority": "Medium",
+  "channels": [
+    "email,sms"
+  ],
+  "timestamp": "2026-09-21 13:40:42",
+  "status": "testing"
+}

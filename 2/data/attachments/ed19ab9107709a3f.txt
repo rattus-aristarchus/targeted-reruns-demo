@@ -1,0 +1,8 @@
+{
+  "paymentMethod": "crypto",
+  "provider": "Crypto Gateway",
+  "processingTime": "10-60 minutes",
+  "security": "Medium",
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

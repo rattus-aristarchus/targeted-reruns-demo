@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Beauty,PROD-BEA-781,Face Cream,34.99,High-quality beauty product with excellent features and durability.,80,2026-09-21 13:41:20

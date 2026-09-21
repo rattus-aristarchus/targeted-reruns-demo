@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Channel Report</title></head>
+<body><h1>Notification Channel Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:41</p>
+<h2>Channel Details</h2>
+<ul>
+<li>Channel: sms</li>
+<li>Type: SMS</li>
+<li>Endpoint: https://api.twilio.com/v1/Messages</li>
+<li>Priority: High</li>
+</ul>
+</body></html>

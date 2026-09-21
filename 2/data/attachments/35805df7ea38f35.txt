@@ -1,0 +1,9 @@
+{
+  "userRole": "Admin",
+  "reportName": "User Role: Admin",
+  "permissions": "Full Access",
+  "accessLevel": "Level 5",
+  "reportScope": "All Reports",
+  "timestamp": "2026-09-21 13:42:01",
+  "testing": true
+}

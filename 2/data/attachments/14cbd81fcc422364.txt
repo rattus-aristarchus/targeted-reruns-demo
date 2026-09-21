@@ -1,0 +1,9 @@
+{
+  "userRole": "Viewer",
+  "reportName": "User Role: Viewer",
+  "permissions": "Read Only",
+  "accessLevel": "Level 2",
+  "reportScope": "Public Reports",
+  "timestamp": "2026-09-21 13:42:04",
+  "testing": true
+}

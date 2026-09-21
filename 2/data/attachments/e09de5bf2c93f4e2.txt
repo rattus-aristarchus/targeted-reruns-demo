@@ -1,0 +1,9 @@
+{
+  "rating": 1,
+  "productCount": 23,
+  "averagePrice": 49.99,
+  "topBrand": "Unknown",
+  "category": "Basic",
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

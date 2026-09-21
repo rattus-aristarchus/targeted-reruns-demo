@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+28,Printer,Storage,1599.99,4.5,189,2026-09-21 13:41:20

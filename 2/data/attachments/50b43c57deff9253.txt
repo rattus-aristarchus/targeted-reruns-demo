@@ -1,0 +1,2 @@
+priority,level,color,expected_count,timestamp
+low,1,#4CAF50,50,2026-09-21 13:40:42

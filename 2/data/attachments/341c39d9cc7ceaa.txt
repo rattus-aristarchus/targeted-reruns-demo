@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+34,Camera,Photography,1299.99,4.6,156,2026-09-21 13:41:20

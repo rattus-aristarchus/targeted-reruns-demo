@@ -1,0 +1,9 @@
+{
+  "exportFormat": "HTML",
+  "reportName": "Export Format: HTML",
+  "mimeType": "text/html",
+  "fileSize": "1.2 MB",
+  "compatibility": "Web Browsers",
+  "timestamp": "2026-09-21 13:42:23",
+  "testing": true
+}

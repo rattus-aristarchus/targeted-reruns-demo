@@ -1,0 +1,10 @@
+{
+  "viewType": "Back View",
+  "imageCount": 2,
+  "resolution": "1920x1080",
+  "fileSize": "2.1 MB",
+  "format": "JPEG",
+  "quality": "High",
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

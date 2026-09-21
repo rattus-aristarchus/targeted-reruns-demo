@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile App State Report</title></head>
+<body><h1>Mobile App State Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:07</p>
+<h2>App State Details</h2>
+<ul>
+<li>State: Offline Mode</li>
+<li>Type: Connectivity</li>
+<li>Impact: High</li>
+<li>Battery: Saves</li>
+</ul>
+</body></html>

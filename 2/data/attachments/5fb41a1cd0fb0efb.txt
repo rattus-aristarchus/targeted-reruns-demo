@@ -1,0 +1,2 @@
+test_type,vulnerability,payload_type,payload,protection_method,severity,status,timestamp
+XSS Prevention,Cross-Site Scripting,Script Tag,"<script>alert('XSS')</script>",Input Sanitization,High,Blocked,2026-09-21 13:42:36

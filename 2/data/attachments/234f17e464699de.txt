@@ -1,0 +1,2 @@
+feature,complexity,performance,status,timestamp
+Aggregation,High,Slow,active,2026-09-21 13:37:56

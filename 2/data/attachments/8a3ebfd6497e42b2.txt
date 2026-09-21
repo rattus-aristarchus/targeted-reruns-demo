@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification ID Report</title></head>
+<body><h1>Notification ID Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:41</p>
+<h2>Notification Details</h2>
+<ul>
+<li>ID: 84</li>
+<li>Status: sent</li>
+<li>Priority: normal</li>
+<li>Channel: telegram</li>
+</ul>
+</body></html>

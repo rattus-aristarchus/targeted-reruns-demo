@@ -1,0 +1,2 @@
+export_format,mime_type,file_size,compatibility,timestamp
+HTML,text/html,1.2 MB,Web Browsers,2026-09-21 13:42:23

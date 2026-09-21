@@ -1,0 +1,9 @@
+PULL REQUEST LOG
+================
+
+PR ID: AE-T6
+Branch: new-feature
+Repository: allure-framework, not-allure-framework/allure2
+Timestamp: 2026-09-21 13:41:49
+Status: Open
+Action: Created successfully

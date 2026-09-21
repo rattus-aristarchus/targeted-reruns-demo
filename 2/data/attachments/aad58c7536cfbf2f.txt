@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head><title>Reorder from History Report</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.reorder{background:#e8f5e8;padding:20px;border-radius:4px;margin:20px 0;border-left:4px solid #4caf50;}
+.product{display:flex;justify-content:space-between;align-items:center;padding:10px;margin:5px 0;border-radius:4px;background:#f5f5f5;}
+.available{background:#e8f5e8;}
+.unavailable{background:#ffebee;}
+.status{display:inline-block;padding:3px 8px;border-radius:12px;color:white;font-size:11px;}
+.available-status{background:#4caf50;}
+.unavailable-status{background:#f44336;}
+.total{background:#e3f2fd;padding:15px;border-radius:4px;text-align:center;margin:15px 0;}
+</style></head>
+<body><div class="container">
+<h1>🔄 Reorder from History Report</h1>
+<p>Generated: 2026-09-21 13:41:19</p>
+<div class="reorder">
+<h2>Reorder Details</h2>
+<p><strong>Original Order:</strong> ORD-12345</p>
+<p><strong>New Order:</strong> ORD-12346</p>
+<h3>Products</h3>
+<div class="product available">
+<div><strong>Laptop</strong><br/>PROD-001 - $999.99 x 1</div>
+<div><span class="status available-status">Available</span></div>
+</div>
+<div class="product available">
+<div><strong>Mouse</strong><br/>PROD-002 - $29.99 x 2</div>
+<div><span class="status available-status">Available</span></div>
+</div>
+<div class="product unavailable">
+<div><strong>Keyboard</strong><br/>PROD-003 - $79.99 x 1</div>
+<div><span class="status unavailable-status">Out of Stock</span></div>
+</div>
+<div class="total">
+<h3>Total Amount: $1,109.97</h3>
+<p>Note: Keyboard excluded due to unavailability</p>
+</div>
+</div>
+</div></body></html>

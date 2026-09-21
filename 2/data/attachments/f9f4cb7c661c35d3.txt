@@ -1,0 +1,10 @@
+{
+  "category": "Books",
+  "productId": "PROD-BOO-770",
+  "name": "Programming Guide",
+  "price": 19.99,
+  "description": "High-quality books product with excellent features and durability.",
+  "inventory": 75,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

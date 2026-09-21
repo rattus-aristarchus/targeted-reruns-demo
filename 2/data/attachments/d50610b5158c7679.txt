@@ -1,0 +1,8 @@
+{
+  "addressType": "Office",
+  "deliveryMethod": "Business Delivery",
+  "deliveryTime": "1-2 business days",
+  "verification": "Medium",
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

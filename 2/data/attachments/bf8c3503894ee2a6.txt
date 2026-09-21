@@ -1,0 +1,9 @@
+{
+  "visualizationType": "Dashboard",
+  "reportName": "Visualization: Dashboard",
+  "interactivity": "Very High",
+  "dataDensity": "Very High",
+  "renderingTime": "4.5s",
+  "timestamp": "2026-09-21 13:42:28",
+  "testing": true
+}

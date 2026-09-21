@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Date Filter Report</title></head>
+<body><h1>Date Filter Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:44</p>
+<h2>Filter Details</h2>
+<ul>
+<li>Date Range: yesterday</li>
+<li>Start Date: 2024-01-19</li>
+<li>End Date: 2024-01-19</li>
+<li>Expected Orders: 8</li>
+</ul>
+</body></html>

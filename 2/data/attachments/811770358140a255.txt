@@ -1,0 +1,11 @@
+{
+  "testType": "Unauthorized Access Prevention",
+  "vulnerability": "Privilege Escalation",
+  "userRole": "Regular User",
+  "targetResource": "Admin Panel",
+  "protectionMethod": "Role-Based Access Control",
+  "severity": "High",
+  "status": "Blocked",
+  "timestamp": "2026-09-21 13:43:03",
+  "testing": true
+}

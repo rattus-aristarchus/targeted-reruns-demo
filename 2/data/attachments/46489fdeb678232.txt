@@ -1,0 +1,9 @@
+{
+  "language": "English",
+  "reportName": "Language: English",
+  "locale": "en-US",
+  "characterSet": "UTF-8",
+  "textDirection": "LTR",
+  "timestamp": "2026-09-21 13:41:55",
+  "testing": true
+}

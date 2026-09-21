@@ -1,0 +1,9 @@
+{
+  "resolution": "375x667",
+  "width": 375,
+  "height": 667,
+  "aspectRatio": "375:667",
+  "deviceType": "Mobile",
+  "timestamp": "2026-09-21 13:38:37",
+  "status": "testing"
+}

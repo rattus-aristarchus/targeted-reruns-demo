@@ -1,0 +1,2 @@
+delivery_method,type,delay,reliability,timestamp
+conditional,Event-driven,Event dependent,Medium,2026-09-21 13:40:42

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Notification Report</title></head>
+<body><h1>Mobile Notification Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:20</p>
+<h2>Notification Details</h2>
+<ul>
+<li>Notification: Banner</li>
+<li>Type: Visual</li>
+<li>Priority: Low</li>
+<li>Delivery: Immediate</li>
+</ul>
+</body></html>

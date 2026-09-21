@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api/issues/close",
+  "method": "PUT",
+  "title": "Fourth Note",
+  "timestamp": "2026-09-21 13:37:54"
+}

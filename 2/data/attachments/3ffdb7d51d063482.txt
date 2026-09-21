@@ -1,0 +1,8 @@
+{
+  "schedule": "1 day",
+  "type": "Medium-term",
+  "duration": "24 hours",
+  "frequency": "Low",
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

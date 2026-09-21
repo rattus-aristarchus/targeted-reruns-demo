@@ -1,0 +1,9 @@
+{
+  "variantType": "Style",
+  "options": ["Classic", "Modern", "Vintage", "Casual", "Formal"],
+  "defaultOption": "Classic",
+  "priceImpact": "±$5-25",
+  "availability": true,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

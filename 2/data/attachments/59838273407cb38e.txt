@@ -1,0 +1,9 @@
+{
+  "paymentMethod": "Bank Transfer",
+  "processingTime": "1-3 business days",
+  "securityLevel": "Very High",
+  "fees": 0.0,
+  "refundTime": "5-7 business days",
+  "timestamp": "2026-09-21 13:40:48",
+  "testing": true
+}

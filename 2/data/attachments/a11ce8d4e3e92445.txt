@@ -1,0 +1,2 @@
+shipping_method,delivery_time,cost,tracking,insurance,timestamp
+Economy,5-7 business days,4.99,false,false,2026-09-21 13:41:18

@@ -1,0 +1,10 @@
+{
+  "reportType": "Time-based Report",
+  "period": "Weekly",
+  "reportName": "Time Report: Weekly",
+  "frequency": "7 days",
+  "dataPoints": 7,
+  "format": "PDF",
+  "timestamp": "2026-09-21 13:42:16",
+  "testing": true
+}

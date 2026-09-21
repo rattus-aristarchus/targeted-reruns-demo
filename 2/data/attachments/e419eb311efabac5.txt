@@ -1,0 +1,10 @@
+{
+  "reportType": "Customer Report",
+  "metric": "Satisfaction",
+  "reportName": "Report Type: Customer - Satisfaction",
+  "category": "Analytics",
+  "complexity": "High",
+  "format": "PDF",
+  "timestamp": "2026-09-21 13:42:13",
+  "testing": true
+}

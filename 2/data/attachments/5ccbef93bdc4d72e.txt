@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+Nikon,Photography,19,$199 - $5,999,4.8,2026-09-21 13:41:20

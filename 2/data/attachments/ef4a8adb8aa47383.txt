@@ -1,0 +1,8 @@
+{
+  "priority": "urgent",
+  "level": 4,
+  "color": "#E91E63",
+  "expectedCount": 8,
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

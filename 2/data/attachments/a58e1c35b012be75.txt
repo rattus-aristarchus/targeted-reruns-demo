@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Event Priority Report</title></head>
+<body><h1>Event Priority Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:07</p>
+<h2>Priority Details</h2>
+<ul>
+<li>Priority: Debug</li>
+<li>Processing Time: 7 days</li>
+<li>Queue Position: 1</li>
+<li>Status: Queued</li>
+</ul>
+</body></html>

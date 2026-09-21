@@ -1,0 +1,2 @@
+method_id,payment_method,provider,status,timestamp
+INT-T2,Braintree,Braintree,testing,2026-09-21 13:37:35

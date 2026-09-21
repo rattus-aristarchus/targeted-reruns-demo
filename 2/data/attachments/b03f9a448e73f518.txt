@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Issue Report</title></head>
+<body><h1>Issue Management Report</h1>
+<p>Generated: 2026-09-21 13:37:54</p>
+<h2>Issue Details</h2>
+<ul>
+<li>Title: Some issue, title here</li>
+<li>Repository: allure-framework, not-allure-framework/allure2</li>
+<li>Status: Open</li>
+</ul>
+</body></html>

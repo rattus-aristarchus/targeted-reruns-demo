@@ -1,0 +1,2 @@
+schedule,type,duration,frequency,timestamp
+1 hour,Short-term,1 hour,Medium,2026-09-21 13:40:42

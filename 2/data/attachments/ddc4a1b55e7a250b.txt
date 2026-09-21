@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Customer Search Report</title></head>
+<body><h1>Customer Search Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:44</p>
+<h2>Search Details</h2>
+<ul>
+<li>Customer: bob.johnson@example.com</li>
+<li>Type: Premium</li>
+<li>Expected Orders: 15</li>
+<li>Last Order: 2024-01-15</li>
+</ul>
+</body></html>

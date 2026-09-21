@@ -1,0 +1,9 @@
+{
+  "productId": 44,
+  "action": "delete",
+  "productName": "Case",
+  "reason": "Low Sales",
+  "backup": true,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Close PR Report</title></head>
+<body><h1>Pull Request Close Report</h1>
+<p>Generated: 2026-09-21 13:41:47</p>
+<h2>Close Details</h2>
+<ul>
+<li>Branch: new-feature</li>
+<li>Action: Closed</li>
+<li>Status: Completed</li>
+</ul>
+</body></html>

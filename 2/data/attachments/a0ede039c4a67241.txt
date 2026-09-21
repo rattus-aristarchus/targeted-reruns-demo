@@ -1,0 +1,10 @@
+{
+  "productId": 22,
+  "name": "Charger",
+  "category": "Audio",
+  "price": 29.99,
+  "rating": 3.8,
+  "reviews": 45,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

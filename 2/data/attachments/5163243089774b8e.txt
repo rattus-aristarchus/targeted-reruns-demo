@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Clothing,PROD-CLO-768,Cotton T-Shirt,29.99,High-quality clothing product with excellent features and durability.,150,2026-09-21 13:41:20

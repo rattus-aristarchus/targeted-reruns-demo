@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Channel Report</title></head>
+<body><h1>Notification Channel Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:41</p>
+<h2>Channel Details</h2>
+<ul>
+<li>Channel: telegram</li>
+<li>Type: Messaging</li>
+<li>Endpoint: https://api.telegram.org/bot{token}/sendMessage</li>
+<li>Priority: Medium</li>
+</ul>
+</body></html>

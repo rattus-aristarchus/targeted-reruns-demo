@@ -1,0 +1,10 @@
+{
+  "viewType": "Side View",
+  "imageCount": 4,
+  "resolution": "1600x1200",
+  "fileSize": "1.8 MB",
+  "format": "PNG",
+  "quality": "Medium",
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

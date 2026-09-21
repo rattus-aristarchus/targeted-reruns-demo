@@ -1,0 +1,8 @@
+{
+  "addressType": "Home",
+  "deliveryMethod": "Standard Delivery",
+  "deliveryTime": "2-3 business days",
+  "verification": "High",
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

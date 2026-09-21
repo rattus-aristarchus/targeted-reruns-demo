@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html><head><title>Notification System Dashboard</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.notification{display:flex;justify-content:space-between;align-items:center;padding:15px;margin:10px 0;border-radius:4px;}
+.email{background:#e8f5e8;border-left:4px solid #4caf50;}
+.sms{background:#e3f2fd;border-left:4px solid #2196f3;}
+.push{background:#fff3e0;border-left:4px solid #ff9800;}
+.status{font-weight:bold;color:#2e7d32;}</style></head>
+<body><div class="container">
+<h1>🔔 Notification System Dashboard</h1>
+<div class="notification email">
+<div><strong>Email Notifications</strong><br/>Status: Active</div>
+<div class="status">✅ Online</div>
+</div>
+<div class="notification sms">
+<div><strong>SMS Notifications</strong><br/>Status: Active</div>
+<div class="status">✅ Online</div>
+</div>
+<div class="notification push">
+<div><strong>Push Notifications</strong><br/>Status: Active</div>
+<div class="status">✅ Online</div>
+</div>
+<p><em>Last updated: 2026-09-21 13:40:42</em></p>
+</div></body></html>

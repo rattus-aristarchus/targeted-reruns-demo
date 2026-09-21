@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<integration-schema>
+  <service name="Payment Gateway" type="payment">
+    <endpoint>https://api.payment.com/v1</endpoint>
+    <timeout>30000</timeout>
+  </service>
+</integration-schema>

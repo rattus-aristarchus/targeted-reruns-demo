@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Sensor Report</title></head>
+<body><h1>Mobile Sensor Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:01</p>
+<h2>Sensor Details</h2>
+<ul>
+<li>Sensor: GPS</li>
+<li>Type: Location</li>
+<li>Accuracy: High</li>
+<li>Permission: Location</li>
+</ul>
+</body></html>

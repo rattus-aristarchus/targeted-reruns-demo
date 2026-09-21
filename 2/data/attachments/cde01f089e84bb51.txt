@@ -1,0 +1,2 @@
+delivery_date,expected_method,shipping_cost,cutoff_time,availability,timestamp
+Next Month,Economy,4.99,11:59 PM,false,2026-09-21 13:40:56

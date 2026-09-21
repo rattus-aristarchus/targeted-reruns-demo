@@ -1,0 +1,9 @@
+EXPORT FORMAT GENERATION LOG
+============================
+
+Export Format: Excel
+MIME Type: application/vnd.ms-excel
+File Size: 1.8 MB
+Compatibility: Microsoft Office
+Timestamp: 2026-09-21 13:42:21
+Action: Export format generation completed

@@ -1,0 +1,2 @@
+channel,type,endpoint,priority,status,timestamp
+sms,SMS,https://api.twilio.com/v1/Messages,High,testing,2026-09-21 13:40:41

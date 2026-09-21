@@ -1,0 +1,9 @@
+{
+  "availability": "in_stock",
+  "productCount": 234,
+  "restockDate": "N/A",
+  "shippingTime": "1-2 business days",
+  "priceChange": No change,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

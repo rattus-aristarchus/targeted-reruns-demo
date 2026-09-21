@@ -1,0 +1,9 @@
+{
+  "userRole": "Guest",
+  "reportName": "User Role: Guest",
+  "permissions": "Limited Access",
+  "accessLevel": "Level 1",
+  "reportScope": "Basic Reports",
+  "timestamp": "2026-09-21 13:42:05",
+  "testing": true
+}

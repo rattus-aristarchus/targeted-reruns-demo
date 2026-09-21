@@ -1,0 +1,2 @@
+template_name,category,priority,channels,status,timestamp
+Welcome,User Onboarding,Low,email,push,testing,2026-09-21 13:40:42

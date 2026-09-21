@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Touch Gesture Report</title></head>
+<body><h1>Mobile Touch Gesture Report</h1>
+<p>Generated: 2026-09-21 13:37:58</p>
+<h2>Gesture Details</h2>
+<ul>
+<li>Gesture: Pinch</li>
+<li>Type: zoom</li>
+<li>Fingers: 2</li>
+<li>Duration: medium</li>
+</ul>
+</body></html>

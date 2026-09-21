@@ -1,0 +1,5 @@
+broker,topic,events_processed,success_rate,avg_processing_time,timestamp
+kafka,user-events,5247,99.8%,42ms,2026-09-21 13:37:07
+kafka,order-events,3891,99.5%,48ms,2026-09-21 13:37:07
+kafka,payment-events,2156,99.9%,35ms,2026-09-21 13:37:07
+kafka,notification-events,3953,99.6%,55ms,2026-09-21 13:37:07

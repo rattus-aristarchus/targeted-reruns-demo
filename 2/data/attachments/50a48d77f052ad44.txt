@@ -1,0 +1,2 @@
+rating,product_count,average_price,top_brand,top_category,timestamp
+1,23,49.99,Unknown,Basic,2026-09-21 13:41:20

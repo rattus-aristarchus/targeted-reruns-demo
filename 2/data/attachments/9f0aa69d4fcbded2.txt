@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<validation-schema>
+  <field name="email" type="email" required="true"/>
+  <field name="password" type="string" minLength="8"/>
+  <field name="age" type="integer" min="18" max="120"/>
+</validation-schema>

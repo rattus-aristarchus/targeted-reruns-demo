@@ -1,0 +1,10 @@
+{
+  "productId": 33,
+  "name": "Tablet",
+  "category": "Mobile",
+  "price": 899.99,
+  "rating": 3.9,
+  "reviews": 67,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

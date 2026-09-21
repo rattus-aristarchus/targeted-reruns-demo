@@ -1,0 +1,8 @@
+{
+  "searchType": "marketing",
+  "category": "Marketing",
+  "priority": "Low",
+  "expectedResults": 50,
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

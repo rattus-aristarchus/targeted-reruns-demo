@@ -1,0 +1,9 @@
+{
+  "brand": "Adidas",
+  "category": "Sports",
+  "productCount": 52,
+  "priceRange": "$20 - $249",
+  "averageRating": 4.2,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

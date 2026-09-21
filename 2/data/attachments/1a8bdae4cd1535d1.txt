@@ -1,0 +1,10 @@
+{
+  "systemId": "notification-system",
+  "version": "2.1.0",
+  "channels": [
+    {"type": "email", "enabled": true, "priority": "high"},
+    {"type": "sms", "enabled": true, "priority": "medium"},
+    {"type": "push", "enabled": true, "priority": "low"}
+  ],
+  "timestamp": "2026-09-21 13:40:42"
+}

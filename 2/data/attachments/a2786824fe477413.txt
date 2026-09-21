@@ -1,0 +1,10 @@
+{
+  "productId": 32,
+  "name": "Headphones",
+  "category": "Audio",
+  "price": 599.99,
+  "rating": 4.8,
+  "reviews": 234,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

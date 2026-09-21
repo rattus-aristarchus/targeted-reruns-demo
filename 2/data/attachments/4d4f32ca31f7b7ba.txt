@@ -1,0 +1,8 @@
+{
+  "channel": "telegram",
+  "type": "Messaging",
+  "endpoint": "https://api.telegram.org/bot{token}/sendMessage",
+  "priority": "Medium",
+  "timestamp": "2026-09-21 13:40:41",
+  "status": "testing"
+}

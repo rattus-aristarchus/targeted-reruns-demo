@@ -1,0 +1,2 @@
+test_type,vulnerability,file_extension,file_type,protection_method,severity,status,timestamp
+File Upload Security Test,Malicious File Upload,.jsp,JSP Script,File Type Validation,High,Rejected,2026-09-21 13:42:57

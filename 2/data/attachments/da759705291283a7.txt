@@ -1,0 +1,7 @@
+{
+  "destination": "Syslog",
+  "type": "system",
+  "enabled": true,
+  "timestamp": "2026-09-21 13:37:56",
+  "status": "active"
+}

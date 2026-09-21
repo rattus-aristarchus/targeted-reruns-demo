@@ -1,0 +1,2 @@
+variant_type,options,default_option,price_impact,availability,timestamp
+Color,["Red", "Blue", "Green", "Black", "White"],Black,No impact,true,2026-09-21 13:41:20

@@ -1,0 +1,9 @@
+{
+  "orientation": "Portrait",
+  "dimensions": "375x667",
+  "width": 375,
+  "height": 667,
+  "isLandscape": false,
+  "timestamp": "2026-09-21 13:38:12",
+  "status": "testing"
+}

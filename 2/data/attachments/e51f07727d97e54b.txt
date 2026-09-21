@@ -1,0 +1,2 @@
+content_type,format,validation,complexity,timestamp
+Dynamic Content,Dynamic,Dynamic Parser,High,2026-09-21 13:40:42

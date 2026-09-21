@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Shipping Address Report</title></head>
+<body><h1>Shipping Address Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:44</p>
+<h2>Address Details</h2>
+<ul>
+<li>Address Type: Home</li>
+<li>Delivery Method: Standard Delivery</li>
+<li>Delivery Time: 2-3 business days</li>
+<li>Verification: High</li>
+</ul>
+</body></html>

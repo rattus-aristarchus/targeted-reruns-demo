@@ -1,0 +1,2 @@
+product_id,name,category,price,rating,reviews,timestamp
+22,Charger,Audio,29.99,3.8,45,2026-09-21 13:41:20

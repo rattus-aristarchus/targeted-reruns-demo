@@ -1,0 +1,8 @@
+{
+  "deliveryMethod": "batch",
+  "type": "Bulk",
+  "delay": "5-30 minutes",
+  "reliability": "Medium",
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

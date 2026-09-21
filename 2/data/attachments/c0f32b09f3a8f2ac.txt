@@ -1,0 +1,8 @@
+{
+  "priority": "medium",
+  "level": 2,
+  "color": "#FF9800",
+  "expectedCount": 30,
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

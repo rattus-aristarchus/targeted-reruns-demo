@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Close Response</title></head>
+<body><h1>Issue Close Response</h1>
+<p>Generated: 2026-09-21 13:37:54</p>
+<h2>Close Details</h2>
+<ul>
+<li>Title: Third Note</li>
+<li>Status: 200 OK</li>
+<li>Action: Closed</li>
+</ul>
+</body></html>

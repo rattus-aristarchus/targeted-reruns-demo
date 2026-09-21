@@ -1,0 +1,9 @@
+{
+  "availability": "discontinued",
+  "productCount": 8,
+  "restockDate": "N/A",
+  "shippingTime": "N/A",
+  "priceChange": Clearance: 50% off,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

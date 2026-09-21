@@ -1,0 +1,10 @@
+{
+  "notificationType": "Telegram",
+  "orderId": "ORD-12345",
+  "deliveryTime": "1-2 minutes",
+  "priority": "Low",
+  "template": "order_telegram_template.md",
+  "enabled": false,
+  "timestamp": "2026-09-21 13:40:53",
+  "testing": true
+}

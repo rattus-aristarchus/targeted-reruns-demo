@@ -1,0 +1,7 @@
+{
+  "feature": "Cleanup",
+  "enabled": true,
+  "schedule": "daily",
+  "timestamp": "2026-09-21 13:37:56",
+  "status": "active"
+}

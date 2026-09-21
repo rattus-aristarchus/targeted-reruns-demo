@@ -1,0 +1,8 @@
+{
+  "notificationId": 101,
+  "action": "delete",
+  "reason": "System Cleanup",
+  "backup": false,
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

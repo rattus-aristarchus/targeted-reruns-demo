@@ -1,0 +1,8 @@
+{
+  "orderId": 59,
+  "status": "cancelled",
+  "customer": "charlie.wilson@example.com",
+  "total": 799.99,
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

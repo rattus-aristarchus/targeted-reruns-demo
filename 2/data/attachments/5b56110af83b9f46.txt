@@ -1,0 +1,10 @@
+{
+  "category": "Toys",
+  "productId": "PROD-TOY-783",
+  "name": "Building Blocks",
+  "price": 49.99,
+  "description": "High-quality toys product with excellent features and durability.",
+  "inventory": 120,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

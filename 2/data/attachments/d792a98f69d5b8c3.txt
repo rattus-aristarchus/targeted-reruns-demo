@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Touch Gesture Report</title></head>
+<body><h1>Mobile Touch Gesture Report</h1>
+<p>Generated: 2026-09-21 13:38:00</p>
+<h2>Gesture Details</h2>
+<ul>
+<li>Gesture: Double Tap</li>
+<li>Type: double-tap</li>
+<li>Fingers: 1</li>
+<li>Duration: instant</li>
+</ul>
+</body></html>

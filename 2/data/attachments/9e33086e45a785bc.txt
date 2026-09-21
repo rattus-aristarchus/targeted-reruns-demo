@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Garden,PROD-GAR-785,Plant Pot,15.99,High-quality garden product with excellent features and durability.,200,2026-09-21 13:41:20

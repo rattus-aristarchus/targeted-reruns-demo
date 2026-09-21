@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Notification Report</title></head>
+<body><h1>Mobile Notification Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:18</p>
+<h2>Notification Details</h2>
+<ul>
+<li>Notification: Email</li>
+<li>Type: Email</li>
+<li>Priority: Medium</li>
+<li>Delivery: Delayed</li>
+</ul>
+</body></html>

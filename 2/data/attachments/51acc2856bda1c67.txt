@@ -1,0 +1,2 @@
+test_type,vulnerability,event_type,log_level,protection_method,severity,status,timestamp
+Failed Login Logging Test,Security Event Logging,Failed Login Attempt,WARNING,Security Event Monitoring,Low,Logged,2026-09-21 13:43:02

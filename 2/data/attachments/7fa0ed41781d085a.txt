@@ -1,0 +1,8 @@
+{
+  "device": "iPad",
+  "os": "iPadOS",
+  "category": "Tablet",
+  "screenSize": "9.7-12.9 inches",
+  "timestamp": "2026-09-21 13:38:33",
+  "status": "testing"
+}

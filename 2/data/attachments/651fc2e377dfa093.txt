@@ -1,0 +1,2 @@
+category,product_id,name,price,description,inventory,timestamp
+Sports,PROD-SPO-775,Running Shoes,129.99,High-quality sports product with excellent features and durability.,60,2026-09-21 13:41:20

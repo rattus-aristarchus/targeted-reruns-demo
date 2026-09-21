@@ -1,0 +1,2 @@
+visualization_type,interactivity,data_density,rendering_time,timestamp
+Table,Medium,High,1.8s,2026-09-21 13:42:26

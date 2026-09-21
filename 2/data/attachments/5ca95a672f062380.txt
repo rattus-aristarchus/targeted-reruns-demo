@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html><head><title>Multiple Items Order Report</title>
+<style>body{font-family:Arial,sans-serif;margin:20px;background:#f8f9fa;}
+.container{background:white;padding:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+.metric{display:inline-block;background:#e3f2fd;padding:15px;margin:10px;border-radius:4px;text-align:center;}
+.priority{display:inline-block;padding:5px 10px;border-radius:15px;color:white;font-size:12px;}
+.low{background:#4caf50;}
+.medium{background:#ff9800;}
+.high{background:#f44336;}
+</style></head>
+<body><div class="container">
+<h1>📦 Multiple Items Order Report</h1>
+<p>Generated: 2026-09-21 13:41:00</p>
+<h2>Order Metrics</h2>
+<div class="metric"><h3>Item Count</h3><p>2</p></div>
+<div class="metric"><h3>Estimated Total</h3><p>$199.98</p></div>
+<div class="metric"><h3>Shipping Weight</h3><p>3.0 lbs</p></div>
+<div class="priority low">Priority: Low</div>
+</div></body></html>

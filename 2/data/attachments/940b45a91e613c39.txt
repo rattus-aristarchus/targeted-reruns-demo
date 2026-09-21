@@ -1,0 +1,16 @@
+{
+  "systemId": "logging-system",
+  "version": "3.2.1",
+  "appenders": [
+    {"name": "console", "type": "ConsoleAppender", "level": "INFO", "status": "active"},
+    {"name": "file", "type": "FileAppender", "level": "DEBUG", "file": "/var/log/app.log", "status": "active"},
+    {"name": "rolling", "type": "RollingFileAppender", "level": "WARN", "file": "/var/log/rolling.log", "status": "active"}
+  ],
+  "loggers": [
+    {"name": "com.example", "level": "DEBUG", "additivity": false},
+    {"name": "org.springframework", "level": "INFO", "additivity": true},
+    {"name": "root", "level": "WARN", "additivity": false}
+  ],
+  "timestamp": "2026-09-21 13:37:56",
+  "status": "initialized"
+}

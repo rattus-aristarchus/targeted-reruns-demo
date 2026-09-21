@@ -1,0 +1,2 @@
+browser,engine,version,platform,status,timestamp
+iOS Safari,WebKit,17.0,iOS,testing,2026-09-21 13:38:26

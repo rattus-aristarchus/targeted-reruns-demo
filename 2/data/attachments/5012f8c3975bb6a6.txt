@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Log Management Report</title></head>
+<body><h1>Log Management Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:56</p>
+<h2>Feature Details</h2>
+<ul>
+<li>Feature: Rotation</li>
+<li>Enabled: true</li>
+<li>Schedule: daily</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

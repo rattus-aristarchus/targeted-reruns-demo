@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Event Type Report</title></head>
+<body><h1>Event Type Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:07</p>
+<h2>Event Details</h2>
+<ul>
+<li>Type: Email Sent</li>
+<li>Category: Business</li>
+<li>Priority: Medium</li>
+<li>Status: Processed</li>
+</ul>
+</body></html>

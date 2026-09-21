@@ -1,0 +1,2 @@
+resolution,width,height,aspect_ratio,device_type,status,timestamp
+320x568,320,568,40:71,Mobile,testing,2026-09-21 13:38:36

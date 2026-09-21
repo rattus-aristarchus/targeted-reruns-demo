@@ -1,0 +1,8 @@
+{
+  "contentType": "Multilingual",
+  "format": "Multi-language",
+  "validation": "Language Detection",
+  "complexity": "Very High",
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

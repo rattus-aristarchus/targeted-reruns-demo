@@ -1,0 +1,2 @@
+notification_name,new_status,previous_status,priority,timestamp
+Notification C,read,delivered,Low,2026-09-21 13:40:42

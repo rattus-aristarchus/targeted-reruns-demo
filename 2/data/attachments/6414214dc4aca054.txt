@@ -1,0 +1,10 @@
+{
+  "testName": "new test",
+  "owner": "daniil@qameta.io",
+  "feature": "Issues",
+  "testType": "TestOps Integration Test",
+  "sleepDuration": 60,
+  "steps": 4,
+  "timestamp": "2026-09-21 13:38:41",
+  "testing": true
+}

@@ -1,0 +1,4 @@
+workflow_id,execution_time,steps_completed,success_rate,avg_step_duration
+wf-001,900ms,4,100%,225ms
+wf-002,1200ms,6,100%,200ms
+wf-003,750ms,3,100%,250ms

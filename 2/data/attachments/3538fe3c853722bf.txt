@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Search Report</title></head>
+<body><h1>Notification Search Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:42</p>
+<h2>Search Details</h2>
+<ul>
+<li>Type: marketing</li>
+<li>Category: Marketing</li>
+<li>Priority: Low</li>
+<li>Expected Results: 50</li>
+</ul>
+</body></html>

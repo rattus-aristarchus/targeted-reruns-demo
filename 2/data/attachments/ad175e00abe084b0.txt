@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Notification Template Report</title></head>
+<body><h1>Notification Template Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:42</p>
+<h2>Template Details</h2>
+<ul>
+<li>Template: Security Alert</li>
+<li>Category: Security</li>
+<li>Priority: Critical</li>
+<li>Channels: email,sms,push</li>
+</ul>
+</body></html>

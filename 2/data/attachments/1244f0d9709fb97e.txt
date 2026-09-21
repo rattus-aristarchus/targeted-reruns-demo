@@ -1,0 +1,4 @@
+service,endpoint,avg_response_time,success_rate,last_check
+Payment Gateway,api.payment.com,250ms,99.8%,2026-09-21 13:37:07
+Shipping Provider,api.shipping.com,180ms,99.9%,2026-09-21 13:37:07
+Email Service,api.email.com,95ms,99.7%,2026-09-21 13:37:07

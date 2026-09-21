@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><head><title>Log Category Report</title></head>
+<body><h1>Log Category Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:56</p>
+<h2>Category Details</h2>
+<ul>
+<li>Category: Application</li>
+<li>Filename: app.log</li>
+<li>Path: /var/log/app.log</li>
+<li>Rotation: Daily</li>
+<li>Retention: 30 days</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

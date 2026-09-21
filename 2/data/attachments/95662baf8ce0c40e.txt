@@ -1,0 +1,9 @@
+{
+  "rating": 5,
+  "productCount": 89,
+  "averagePrice": 299.99,
+  "topBrand": "Apple",
+  "category": "Electronics",
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

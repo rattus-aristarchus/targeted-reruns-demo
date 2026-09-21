@@ -1,0 +1,11 @@
+{
+  "testType": "Password Strength Test",
+  "vulnerability": "Weak Password",
+  "password": "weak",
+  "strengthLevel": "Very Weak",
+  "protectionMethod": "Password Policy Enforcement",
+  "severity": "Medium",
+  "status": "Rejected",
+  "timestamp": "2026-09-21 13:42:50",
+  "testing": true
+}

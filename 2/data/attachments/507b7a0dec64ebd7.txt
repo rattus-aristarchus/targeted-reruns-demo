@@ -1,0 +1,9 @@
+API ISSUE CREATION LOG
+======================
+
+Endpoint: /api/issues
+Method: POST
+Title: First Note
+Repository: allure-framework, not-allure-framework/allure2
+Timestamp: 2026-09-21 13:37:54
+Status: 201 Created

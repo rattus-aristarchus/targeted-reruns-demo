@@ -1,0 +1,2 @@
+network,speed,latency,reliability,status,timestamp
+WiFi,50-1000 Mbps,1-50ms,High,testing,2026-09-21 13:38:25

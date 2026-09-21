@@ -1,0 +1,2 @@
+orientation,dimensions,width,height,is_landscape,status,timestamp
+Landscape,667x375,667,375,true,testing,2026-09-21 13:38:13

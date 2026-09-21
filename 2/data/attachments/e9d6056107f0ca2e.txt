@@ -1,0 +1,10 @@
+NOTIFICATION CHANNEL TESTING LOG
+==================================
+
+Channel: whatsapp
+Type: Messaging
+Endpoint: https://graph.facebook.com/v17.0/messages
+Priority: Medium
+Timestamp: 2026-09-21 13:40:41
+Status: Testing
+Action: Notification channel validation completed

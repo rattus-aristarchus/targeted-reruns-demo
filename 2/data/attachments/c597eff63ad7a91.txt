@@ -1,0 +1,2 @@
+report_type,metric,category,complexity,format,timestamp
+Sales,Revenue,Business,High,PDF,2026-09-21 13:42:11

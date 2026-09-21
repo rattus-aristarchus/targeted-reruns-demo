@@ -1,0 +1,2 @@
+product_id,action,product_name,reason,backup_required,timestamp
+46,delete,Gaming Laptop,Quality Issues,true,2026-09-21 13:41:20

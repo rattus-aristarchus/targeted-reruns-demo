@@ -1,0 +1,2 @@
+delivery_date,expected_method,shipping_cost,cutoff_time,availability,timestamp
+Tomorrow,Next Day,29.99,11:00 PM,true,2026-09-21 13:40:54

@@ -1,0 +1,9 @@
+{
+  "language": "Chinese",
+  "reportName": "Language: Chinese",
+  "locale": "zh-CN",
+  "characterSet": "UTF-8",
+  "textDirection": "LTR",
+  "timestamp": "2026-09-21 13:41:59",
+  "testing": true
+}

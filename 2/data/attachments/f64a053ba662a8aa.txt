@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <appenders>
+    <Console name="console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"/>
+      <ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
+    </Console>
+    <File name="file" fileName="/var/log/app.log">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"/>
+      <ThresholdFilter level="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
+    </File>
+    <RollingFile name="rolling" fileName="/var/log/rolling.log"
+                 filePattern="/var/log/rolling-%d{yyyy-MM-dd}-%i.log.gz">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"/>
+      <ThresholdFilter level="WARN" onMatch="ACCEPT" onMismatch="DENY"/>
+      <Policies>
+        <TimeBasedTriggeringPolicy/>
+        <SizeBasedTriggeringPolicy size="100MB"/>
+      </Policies>
+      <DefaultRolloverStrategy max="10"/>
+    </RollingFile>
+  </appenders>
+  <loggers>
+    <Logger name="com.example" level="DEBUG" additivity="false">
+      <AppenderRef ref="console"/>
+      <AppenderRef ref="file"/>
+    </Logger>
+    <Logger name="org.springframework" level="INFO" additivity="true">
+      <AppenderRef ref="console"/>
+    </Logger>
+    <Root level="WARN">
+      <AppenderRef ref="rolling"/>
+    </Root>
+  </loggers>
+</configuration>

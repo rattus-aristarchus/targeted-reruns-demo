@@ -1,0 +1,2 @@
+order_name,expected_total,currency,tax_rate,shipping,timestamp
+Order D,499.99,USD,9.5,0.0,2026-09-21 13:40:44

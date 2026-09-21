@@ -1,0 +1,2 @@
+product_id,name,category,price,status,timestamp
+PM-T1,Test Product,Electronics,99.99,active,2026-09-21 13:41:21

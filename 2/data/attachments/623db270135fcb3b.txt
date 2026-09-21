@@ -1,0 +1,2 @@
+sensor,type,accuracy,permission,status,timestamp
+Accelerometer,Motion,Medium,None,testing,2026-09-21 13:38:04

@@ -1,0 +1,11 @@
+TESTOPS INTEGRATION TESTING LOG
+================================
+
+Test Name: new test
+Owner: daniil@qameta.io
+Feature: Issues
+Test Type: TestOps Integration Test
+Steps: 4
+Sleep Duration: 60 seconds
+Timestamp: 2026-09-21 13:38:41
+Action: TestOps integration test execution started

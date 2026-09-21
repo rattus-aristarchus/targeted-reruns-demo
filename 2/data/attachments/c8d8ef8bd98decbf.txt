@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Payment Method Integration Report</title></head>
+<body><h1>Payment Method Integration Report</h1>
+<p>Generated: 2026-09-21 13:37:36</p>
+<h2>Method Details</h2>
+<ul>
+<li>Payment Method: Authorize.net</li>
+<li>Status: Testing</li>
+<li>Integration: Active</li>
+</ul>
+</body></html>

@@ -1,0 +1,7 @@
+{
+  "format": "JSON",
+  "mimeType": "application/json",
+  "encoding": "UTF-8",
+  "timestamp": "2026-09-21 13:37:56",
+  "status": "active"
+}

@@ -1,0 +1,2 @@
+sensor,type,accuracy,permission,status,timestamp
+Microphone,Audio,High,Microphone,testing,2026-09-21 13:38:03

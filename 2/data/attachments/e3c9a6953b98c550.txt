@@ -1,0 +1,2 @@
+search_type,category,priority,expected_results,timestamp
+alert,Security,High,3,2026-09-21 13:40:42

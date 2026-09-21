@@ -1,0 +1,2 @@
+notification_type,order_id,delivery_time,priority,template,enabled,timestamp
+WhatsApp,ORD-12345,1-3 minutes,Medium,order_whatsapp_template.txt,true,2026-09-21 13:40:52

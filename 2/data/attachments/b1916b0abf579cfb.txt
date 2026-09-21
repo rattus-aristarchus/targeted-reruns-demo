@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Mobile Sensor Report</title></head>
+<body><h1>Mobile Sensor Testing Report</h1>
+<p>Generated: 2026-09-21 13:38:02</p>
+<h2>Sensor Details</h2>
+<ul>
+<li>Sensor: Camera</li>
+<li>Type: Image</li>
+<li>Accuracy: High</li>
+<li>Permission: Camera</li>
+</ul>
+</body></html>

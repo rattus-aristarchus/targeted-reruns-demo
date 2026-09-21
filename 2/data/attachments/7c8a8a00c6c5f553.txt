@@ -1,0 +1,2 @@
+user_role,permissions,access_level,report_scope,timestamp
+Manager,Management Access,Level 4,Department Reports,2026-09-21 13:42:02

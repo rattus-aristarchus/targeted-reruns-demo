@@ -1,0 +1,10 @@
+{
+  "notificationType": "Email",
+  "orderId": "ORD-12345",
+  "deliveryTime": "1-2 minutes",
+  "priority": "Medium",
+  "template": "order_email_template.html",
+  "enabled": true,
+  "timestamp": "2026-09-21 13:40:49",
+  "testing": true
+}

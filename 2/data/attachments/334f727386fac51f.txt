@@ -1,0 +1,10 @@
+{
+  "category": "Sports",
+  "productId": "PROD-SPO-775",
+  "name": "Running Shoes",
+  "price": 129.99,
+  "description": "High-quality sports product with excellent features and durability.",
+  "inventory": 60,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

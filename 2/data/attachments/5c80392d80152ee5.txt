@@ -1,0 +1,2 @@
+region,population,sales_volume,market_share,timestamp
+Central,15,$1.5M,15%,2026-09-21 13:41:54

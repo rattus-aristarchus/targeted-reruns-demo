@@ -1,0 +1,10 @@
+{
+  "category": "Clothing",
+  "productId": "PROD-CLO-768",
+  "name": "Cotton T-Shirt",
+  "price": 29.99,
+  "description": "High-quality clothing product with excellent features and durability.",
+  "inventory": 150,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

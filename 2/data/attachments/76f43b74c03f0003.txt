@@ -1,0 +1,11 @@
+{
+  "testType": "CSRF Protection Test",
+  "vulnerability": "Cross-Site Request Forgery",
+  "httpMethod": "PATCH",
+  "tokenType": "Header Token",
+  "protectionMethod": "CSRF Token Validation",
+  "severity": "High",
+  "status": "Protected",
+  "timestamp": "2026-09-21 13:42:44",
+  "testing": true
+}

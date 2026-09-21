@@ -1,0 +1,2 @@
+test_type,vulnerability,user_role,target_resource,protection_method,severity,status,timestamp
+Unauthorized Access Prevention,Privilege Escalation,Regular User,Admin Panel,Role-Based Access Control,High,Blocked,2026-09-21 13:43:03

@@ -1,0 +1,13 @@
+{
+  "action": "reorder_from_history",
+  "originalOrderId": "ORD-12345",
+  "newOrderId": "ORD-12346",
+  "products": [
+    {"id": "PROD-001", "name": "Laptop", "price": 999.99, "quantity": 1, "available": true},
+    {"id": "PROD-002", "name": "Mouse", "price": 29.99, "quantity": 2, "available": true},
+    {"id": "PROD-003", "name": "Keyboard", "price": 79.99, "quantity": 1, "available": false}
+  ],
+  "totalAmount": 1109.97,
+  "timestamp": "2026-09-21 13:41:19",
+  "testing": true
+}

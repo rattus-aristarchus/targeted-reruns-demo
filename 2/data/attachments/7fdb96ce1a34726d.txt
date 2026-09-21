@@ -1,0 +1,8 @@
+{
+  "device": "Tablet",
+  "os": "Android/iOS",
+  "category": "Tablet",
+  "screenSize": "7.0-12.9 inches",
+  "timestamp": "2026-09-21 13:38:34",
+  "status": "testing"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": 27,
+  "name": "Monitor",
+  "category": "Peripherals",
+  "price": 999.99,
+  "rating": 3.7,
+  "reviews": 78,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

@@ -1,0 +1,2 @@
+user_role,permissions,access_level,report_scope,timestamp
+Admin,Full Access,Level 5,All Reports,2026-09-21 13:42:01

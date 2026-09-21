@@ -1,0 +1,9 @@
+{
+  "paymentMethod": "Credit Card",
+  "processingTime": "2-5 seconds",
+  "securityLevel": "High",
+  "fees": 2.9,
+  "refundTime": "3-5 business days",
+  "timestamp": "2026-09-21 13:40:44",
+  "testing": true
+}

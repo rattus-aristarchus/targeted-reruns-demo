@@ -1,0 +1,7 @@
+{
+  "viewType": "Real-time",
+  "dataSource": "Live Data Stream",
+  "refreshRate": "1 second",
+  "timeRange": "Last 24 hours",
+  "metrics": ["active_users", "revenue_per_minute", "conversion_rate"]
+}

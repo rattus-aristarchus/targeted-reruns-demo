@@ -1,0 +1,10 @@
+{
+  "category": "Health",
+  "productId": "PROD-HEA-779",
+  "name": "Vitamin Supplements",
+  "price": 24.99,
+  "description": "High-quality health product with excellent features and durability.",
+  "inventory": 100,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

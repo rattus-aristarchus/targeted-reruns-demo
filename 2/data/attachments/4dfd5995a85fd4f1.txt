@@ -1,0 +1,10 @@
+{
+  "productId": 29,
+  "name": "Router",
+  "category": "Networking",
+  "price": 249.99,
+  "rating": 4.2,
+  "reviews": 134,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

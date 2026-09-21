@@ -1,0 +1,2 @@
+variant_type,options,default_option,price_impact,availability,timestamp
+Size,["XS", "S", "M", "L", "XL", "XXL"],M,No impact,true,2026-09-21 13:41:20

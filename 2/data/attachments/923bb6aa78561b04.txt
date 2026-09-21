@@ -1,0 +1,2 @@
+device,os,category,screen_size,status,timestamp
+iPad,iPadOS,Tablet,9.7-12.9 inches,testing,2026-09-21 13:38:33

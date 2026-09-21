@@ -1,0 +1,2 @@
+notification_type,order_id,delivery_time,priority,template,enabled,timestamp
+SMS,ORD-12345,30-60 seconds,High,order_sms_template.txt,true,2026-09-21 13:40:50

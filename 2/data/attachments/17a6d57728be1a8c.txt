@@ -1,0 +1,8 @@
+{
+  "network": "3G",
+  "speed": "1-3 Mbps",
+  "latency": "200-500ms",
+  "reliability": "Medium",
+  "timestamp": "2026-09-21 13:38:22",
+  "status": "testing"
+}

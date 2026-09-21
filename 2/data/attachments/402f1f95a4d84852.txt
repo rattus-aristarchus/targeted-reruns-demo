@@ -1,0 +1,9 @@
+{
+  "productId": 45,
+  "action": "delete",
+  "productName": "Smart Watch",
+  "reason": "Discontinued",
+  "backup": false,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

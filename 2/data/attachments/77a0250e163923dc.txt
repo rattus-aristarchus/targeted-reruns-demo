@@ -1,0 +1,2 @@
+content_type,format,validation,complexity,timestamp
+Text Only,Plain Text,Basic,Low,2026-09-21 13:40:42

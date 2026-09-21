@@ -1,0 +1,2 @@
+brand,category,product_count,price_range,average_rating,timestamp
+Sony,Electronics,29,$79 - $1,499,4.5,2026-09-21 13:41:20

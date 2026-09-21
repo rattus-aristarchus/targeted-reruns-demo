@@ -1,0 +1,2 @@
+delivery_method,type,delay,reliability,timestamp
+batch,Bulk,5-30 minutes,Medium,2026-09-21 13:40:42

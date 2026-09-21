@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Log Level Report</title></head>
+<body><h1>Log Level Processing Report</h1>
+<p>Generated: 2026-09-21 13:37:56</p>
+<h2>Level Details</h2>
+<ul>
+<li>Level: DEBUG</li>
+<li>Priority: 0</li>
+<li>Color: #9E9E9E</li>
+<li>Status: Active</li>
+</ul>
+</body></html>

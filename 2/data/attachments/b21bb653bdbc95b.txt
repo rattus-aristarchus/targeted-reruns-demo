@@ -1,0 +1,2 @@
+test_type,vulnerability,http_method,token_type,protection_method,severity,status,timestamp
+CSRF Protection Test,Cross-Site Request Forgery,DELETE,Header Token,CSRF Token Validation,High,Protected,2026-09-21 13:42:43

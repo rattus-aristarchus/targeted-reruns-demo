@@ -1,0 +1,9 @@
+{
+  "brand": "HP",
+  "category": "Computers",
+  "productCount": 36,
+  "priceRange": "$199 - $1,999",
+  "averageRating": 3.9,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

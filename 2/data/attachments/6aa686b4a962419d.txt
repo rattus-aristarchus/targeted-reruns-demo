@@ -1,0 +1,2 @@
+order_id,status,customer,total,timestamp
+57,shipped,bob.johnson@example.com,299.99,2026-09-21 13:40:44

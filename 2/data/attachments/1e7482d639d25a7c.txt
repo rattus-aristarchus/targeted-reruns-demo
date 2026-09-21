@@ -1,0 +1,9 @@
+{
+  "productId": 37,
+  "action": "delete",
+  "productName": "Microphone",
+  "reason": "Quality Issues",
+  "backup": false,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

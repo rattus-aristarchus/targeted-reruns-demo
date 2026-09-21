@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>Order Items Report</title></head>
+<body><h1>Order Items Testing Report</h1>
+<p>Generated: 2026-09-21 13:40:44</p>
+<h2>Items Details</h2>
+<ul>
+<li>Order Type: Gift Order</li>
+<li>Item Count: 3</li>
+<li>Category: Gift</li>
+<li>Priority: Medium</li>
+</ul>
+</body></html>

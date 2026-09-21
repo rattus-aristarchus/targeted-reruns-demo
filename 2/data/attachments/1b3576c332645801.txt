@@ -1,0 +1,10 @@
+{
+  "templateName": "Price Alert",
+  "category": "E-commerce",
+  "priority": "High",
+  "channels": [
+    "email,push,sms"
+  ],
+  "timestamp": "2026-09-21 13:40:42",
+  "status": "testing"
+}

@@ -1,0 +1,2 @@
+delivery_method,type,delay,reliability,timestamp
+scheduled,Time-based,As scheduled,Very High,2026-09-21 13:40:42

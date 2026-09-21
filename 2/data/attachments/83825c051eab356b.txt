@@ -1,0 +1,8 @@
+{
+  "contentType": "Dynamic Content",
+  "format": "Dynamic",
+  "validation": "Dynamic Parser",
+  "complexity": "High",
+  "timestamp": "2026-09-21 13:40:42",
+  "testing": true
+}

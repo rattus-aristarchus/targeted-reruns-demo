@@ -1,0 +1,13 @@
+SECURITY LOGGING TESTING LOG
+============================
+
+Test Type: Failed Login Logging Test
+Vulnerability: Security Event Logging
+Event Type: Failed Login Attempt
+Log Level: WARNING
+Protection Method: Security Event Monitoring
+Severity: Low
+Status: Logged
+Log Entry: [2026-09-21 13:43:02] WARNING: Failed login attempt from IP 192.168.1.100 for user testuser
+Timestamp: 2026-09-21 13:43:02
+Action: Security event logging validation completed

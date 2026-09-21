@@ -1,0 +1,9 @@
+{
+  "visualizationType": "Chart",
+  "reportName": "Visualization: Chart",
+  "interactivity": "High",
+  "dataDensity": "Medium",
+  "renderingTime": "2.3s",
+  "timestamp": "2026-09-21 13:42:25",
+  "testing": true
+}

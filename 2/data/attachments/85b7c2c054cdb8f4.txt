@@ -1,0 +1,10 @@
+{
+  "productId": 35,
+  "name": "Watch",
+  "category": "Wearables",
+  "price": 199.99,
+  "rating": 4.1,
+  "reviews": 98,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}

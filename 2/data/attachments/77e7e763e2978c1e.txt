@@ -1,0 +1,2 @@
+state,type,impact,battery,status,timestamp
+Data Saver,Resource,Low,Saves,testing,2026-09-21 13:38:09

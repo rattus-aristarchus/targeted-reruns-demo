@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dashboard>
+  <name>Main Analytics Dashboard</name>
+  <version>2.1.0</version>
+  <settings>
+    <refreshInterval>30</refreshInterval>
+    <timezone>UTC</timezone>
+    <theme>dark</theme>
+    <autoRefresh>true</autoRefresh>
+  </settings>
+  <widgets>
+    <widget type="revenue" position="top-left">
+      <title>Revenue Trend</title>
+      <dataSource>revenue-api</dataSource>
+    </widget>
+    <widget type="users" position="top-right">
+      <title>Active Users</title>
+      <dataSource>users-api</dataSource>
+    </widget>
+  </widgets>
+</dashboard>

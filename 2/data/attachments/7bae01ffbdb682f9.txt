@@ -1,0 +1,9 @@
+{
+  "productName": "Product D",
+  "newPrice": 129.99,
+  "previousPrice": 103.99200000000002,
+  "priceChange": 25.99799999999999,
+  "changePercentage": 24.999999999999986,
+  "timestamp": "2026-09-21 13:41:20",
+  "testing": true
+}
